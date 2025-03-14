@@ -1,0 +1,1001 @@
+﻿EmpID,Age,AgeGroup,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+RM297,18,18-25,Yes,Travel_Rarely,230,Research & Development,3,3,Life Sciences,3,3,0,0,2,3,0,0,0,0
+RM302,18,18-25,No,Travel_Rarely,812,Sales,10,3,Medical,3,1,0,0,2,3,0,0,0,0
+RM458,18,18-25,Yes,Travel_Frequently,1306,Sales,5,3,Marketing,3,4,0,0,3,3,0,0,0,0
+RM728,18,18-25,No,Non-Travel,287,Research & Development,5,2,Life Sciences,3,4,0,0,2,3,0,0,0,0
+RM829,18,18-25,Yes,Non-Travel,247,Research & Development,8,1,Medical,3,4,0,0,0,3,0,0,0,0
+RM973,18,18-25,No,Non-Travel,1124,Research & Development,1,3,Life Sciences,3,3,0,0,5,4,0,0,0,0
+RM1154,18,18-25,Yes,Travel_Frequently,544,Sales,3,2,Medical,3,3,0,0,2,4,0,0,0,0
+RM1312,18,18-25,No,Non-Travel,1431,Research & Development,14,3,Medical,3,3,0,0,4,1,0,0,0,0
+RM128,19,18-25,Yes,Travel_Rarely,528,Sales,22,1,Marketing,3,4,0,0,2,2,0,0,0,0
+RM150,19,18-25,No,Travel_Rarely,1181,Research & Development,3,1,Medical,3,4,0,1,3,3,1,0,0,0
+RM172,19,18-25,Yes,Travel_Frequently,602,Sales,1,1,Technical Degree,4,1,0,1,5,4,0,0,0,0
+RM178,19,18-25,Yes,Travel_Rarely,303,Research & Development,2,3,Life Sciences,4,3,0,1,3,2,1,0,1,0
+RM423,19,18-25,Yes,Travel_Rarely,489,Human Resources,2,2,Technical Degree,3,3,0,1,3,4,1,0,0,0
+RM689,19,18-25,Yes,Travel_Rarely,419,Sales,21,3,Other,3,2,0,1,3,4,1,0,0,0
+RM854,19,18-25,No,Travel_Rarely,645,Research & Development,9,2,Life Sciences,4,3,0,1,4,3,1,1,0,0
+RM893,19,18-25,Yes,Non-Travel,504,Research & Development,10,3,Medical,4,2,0,1,2,4,1,1,0,0
+RM910,19,18-25,No,Travel_Rarely,265,Research & Development,25,3,Life Sciences,3,4,0,1,2,3,1,0,0,1
+RM103,20,18-25,Yes,Travel_Frequently,871,Research & Development,6,3,Life Sciences,3,2,0,1,5,3,1,0,1,0
+RM488,20,18-25,No,Travel_Rarely,959,Research & Development,1,3,Life Sciences,3,4,0,1,0,4,1,0,0,0
+RM514,20,18-25,Yes,Travel_Rarely,1362,Research & Development,10,1,Medical,3,4,0,1,5,3,1,0,1,1
+RM663,20,18-25,Yes,Travel_Rarely,500,Sales,2,3,Medical,3,4,0,2,3,2,2,2,0,2
+RM690,20,18-25,Yes,Travel_Rarely,129,Research & Development,4,3,Technical Degree,3,2,0,1,2,3,1,0,0,0
+RM732,20,18-25,Yes,Travel_Rarely,1097,Research & Development,11,3,Medical,3,1,0,1,2,3,1,0,0,0
+RM777,20,18-25,Yes,Travel_Frequently,769,Sales,9,3,Marketing,3,2,0,2,3,3,2,2,0,2
+RM857,20,18-25,No,Travel_Rarely,805,Research & Development,3,3,Life Sciences,3,1,0,2,2,2,2,2,1,2
+RM877,20,18-25,No,Travel_Rarely,654,Sales,21,3,Marketing,3,4,0,2,2,3,2,1,2,2
+RM1179,20,18-25,No,Travel_Rarely,1141,Sales,2,3,Medical,3,1,0,2,3,3,2,2,2,2
+RM1198,20,18-25,No,Travel_Rarely,727,Sales,9,1,Life Sciences,3,1,0,2,3,3,2,2,0,2
+RM024,21,18-25,No,Travel_Rarely,391,Research & Development,15,2,Life Sciences,3,4,0,0,6,3,0,0,0,null
+RM275,21,18-25,No,Travel_Rarely,996,Research & Development,3,2,Medical,3,1,0,3,4,4,3,2,1,0
+RM358,21,18-25,Yes,Travel_Frequently,756,Sales,1,1,Technical Degree,3,3,0,3,3,3,3,2,1,2
+RM363,21,18-25,No,Non-Travel,895,Sales,9,2,Medical,4,3,0,3,3,2,3,2,2,null
+RM371,21,18-25,Yes,Travel_Rarely,156,Sales,12,3,Life Sciences,3,4,0,1,0,3,1,0,0,0
+RM497,21,18-25,No,Travel_Rarely,1343,Sales,22,1,Technical Degree,3,3,0,3,2,3,3,2,1,2
+RM664,21,18-25,Yes,Travel_Rarely,1427,Research & Development,18,1,Other,3,1,0,1,3,2,1,0,0,0
+RM778,21,18-25,Yes,Travel_Rarely,1334,Research & Development,10,3,Life Sciences,3,1,0,1,6,2,1,0,1,0
+RM816,21,18-25,No,Travel_Rarely,984,Research & Development,1,1,Technical Degree,3,3,0,2,6,4,2,2,2,2
+RM916,21,18-25,Yes,Travel_Frequently,251,Research & Development,10,2,Life Sciences,4,3,0,2,2,1,2,2,2,2
+RM1153,21,18-25,No,Travel_Rarely,546,Research & Development,5,1,Medical,3,3,0,3,2,3,2,2,2,2
+RM1272,21,18-25,Yes,Travel_Rarely,337,Sales,7,1,Marketing,3,2,0,1,3,3,1,0,1,0
+RM1437,21,18-25,No,Travel_Rarely,501,Sales,5,1,Medical,3,4,0,2,6,3,2,2,1,2
+RM018,22,18-25,No,Non-Travel,1123,Research & Development,16,2,Medical,3,2,2,1,2,2,1,0,0,0
+RM110,22,18-25,No,Travel_Rarely,534,Research & Development,15,3,Medical,3,3,0,1,5,3,0,0,0,0
+RM129,22,18-25,No,Travel_Rarely,594,Research & Development,2,1,Technical Degree,3,3,1,3,2,3,2,1,2,1
+RM161,22,18-25,No,Travel_Rarely,1256,Research & Development,19,1,Medical,4,1,2,2,6,3,2,2,2,2
+RM207,22,18-25,No,Travel_Rarely,1136,Research & Development,5,3,Life Sciences,3,1,1,4,2,2,4,2,2,null
+RM384,22,18-25,No,Travel_Rarely,253,Research & Development,11,3,Medical,3,4,1,2,1,3,2,1,1,2
+RM444,22,18-25,Yes,Travel_Frequently,1368,Research & Development,4,1,Technical Degree,3,3,0,4,3,3,2,2,1,2
+RM499,22,18-25,No,Travel_Rarely,604,Research & Development,6,1,Medical,4,4,0,3,3,3,2,2,2,2
+RM631,22,18-25,No,Travel_Rarely,1230,Research & Development,1,2,Life Sciences,4,1,2,4,2,1,2,2,2,2
+RM667,22,18-25,Yes,Travel_Rarely,617,Research & Development,3,1,Life Sciences,3,1,1,4,3,4,3,2,0,2
+RM735,22,18-25,No,Travel_Rarely,217,Research & Development,8,1,Life Sciences,3,1,1,4,3,2,4,3,1,1
+RM861,22,18-25,Yes,Travel_Frequently,1256,Research & Development,3,4,Life Sciences,3,2,1,1,5,3,0,0,0,0
+RM1138,22,18-25,No,Non-Travel,457,Research & Development,26,2,Other,3,2,0,4,2,2,4,2,1,3
+RM1274,22,18-25,Yes,Travel_Rarely,1294,Research & Development,8,1,Medical,3,3,0,1,6,3,1,0,0,0
+RM1340,22,18-25,Yes,Travel_Rarely,391,Research & Development,7,1,Life Sciences,4,1,0,1,2,3,1,0,0,0
+RM1424,22,18-25,No,Travel_Rarely,581,Research & Development,1,2,Life Sciences,3,4,0,4,2,4,3,2,1,2
+RM087,23,18-25,No,Travel_Rarely,541,Sales,2,1,Technical Degree,3,3,1,3,3,3,0,0,0,0
+RM346,23,18-25,No,Travel_Rarely,1309,Research & Development,26,1,Life Sciences,3,3,2,4,2,2,4,2,0,2
+RM517,23,18-25,No,Travel_Rarely,885,Research & Development,4,3,Medical,3,1,1,5,3,4,3,2,0,2
+RM551,23,18-25,No,Travel_Rarely,650,Research & Development,9,1,Medical,3,4,1,5,2,4,4,3,0,2
+RM566,23,18-25,No,Travel_Rarely,310,Research & Development,10,1,Medical,3,4,0,2,3,3,2,2,0,2
+RM586,23,18-25,Yes,Travel_Rarely,1243,Research & Development,6,3,Life Sciences,4,3,2,1,2,3,0,0,0,0
+RM911,23,18-25,No,Travel_Rarely,373,Research & Development,1,2,Life Sciences,4,4,1,1,2,3,1,0,0,1
+RM1083,23,18-25,No,Travel_Rarely,507,Research & Development,20,1,Life Sciences,3,2,0,5,2,3,4,3,1,2
+RM1128,23,18-25,No,Travel_Rarely,977,Research & Development,10,3,Technical Degree,3,4,1,4,2,3,2,2,2,2
+RM1202,23,18-25,Yes,Travel_Rarely,1320,Research & Development,8,1,Medical,3,1,0,5,2,3,5,4,1,2
+RM1214,23,18-25,Yes,Travel_Rarely,427,Sales,7,3,Life Sciences,4,2,1,3,2,3,3,2,0,2
+RM1239,23,18-25,No,Travel_Rarely,160,Research & Development,4,1,Medical,3,3,0,3,3,1,3,2,1,2
+RM1409,23,18-25,No,Travel_Rarely,571,Research & Development,12,2,Other,3,3,0,5,6,4,5,2,1,4
+RM1439,23,18-25,Yes,Travel_Frequently,638,Sales,9,3,Marketing,3,1,1,1,3,2,1,0,1,0
+RM021,24,18-25,No,Non-Travel,673,Research & Development,11,2,Other,3,4,1,5,5,2,4,2,1,3
+RM035,24,18-25,Yes,Travel_Rarely,813,Research & Development,1,3,Medical,3,1,1,6,2,2,2,0,2,0
+RM097,24,18-25,No,Travel_Rarely,1353,Sales,3,2,Other,4,1,1,4,2,2,3,2,0,2
+RM114,24,18-25,No,Travel_Rarely,1127,Research & Development,18,1,Life Sciences,3,3,1,6,2,3,5,3,1,2
+RM381,24,18-25,No,Travel_Rarely,1371,Sales,10,4,Marketing,3,4,1,5,2,4,5,2,0,3
+RM415,24,18-25,Yes,Travel_Rarely,1448,Sales,1,1,Technical Degree,3,2,0,6,4,3,5,3,1,4
+RM471,24,18-25,No,Travel_Frequently,535,Sales,24,3,Medical,3,3,2,3,3,3,2,2,2,1
+RM475,24,18-25,No,Travel_Rarely,691,Research & Development,23,3,Medical,3,2,2,6,3,3,6,5,1,4
+RM477,24,18-25,No,Travel_Rarely,823,Research & Development,17,2,Other,4,4,1,1,2,3,1,0,0,0
+RM480,24,18-25,Yes,Travel_Frequently,1287,Research & Development,7,3,Life Sciences,3,4,1,6,4,3,6,3,1,2
+RM526,24,18-25,Yes,Travel_Rarely,693,Sales,3,2,Life Sciences,3,1,0,4,3,3,2,2,2,0
+RM587,24,18-25,No,Non-Travel,1092,Research & Development,9,3,Life Sciences,3,3,3,1,4,3,1,0,0,0
+RM641,24,18-25,No,Non-Travel,1269,Research & Development,4,1,Life Sciences,3,4,0,6,2,2,5,2,3,4
+RM725,24,18-25,No,Travel_Rarely,1206,Research & Development,17,1,Medical,3,2,2,5,6,3,4,2,3,2
+RM842,24,18-25,No,Travel_Rarely,477,Research & Development,24,3,Medical,4,4,0,6,2,3,4,3,1,2
+RM872,24,18-25,Yes,Travel_Rarely,984,Research & Development,17,2,Life Sciences,3,1,1,1,3,1,1,0,0,0
+RM1026,24,18-25,No,Travel_Rarely,1476,Sales,4,1,Medical,3,3,2,5,3,3,5,4,0,3
+RM1061,24,18-25,Yes,Travel_Frequently,381,Research & Development,9,3,Medical,3,3,0,4,2,2,0,0,0,0
+RM1062,24,18-25,No,Non-Travel,830,Sales,13,2,Life Sciences,3,3,1,1,2,3,1,0,0,0
+RM1098,24,18-25,No,Travel_Rarely,350,Research & Development,21,2,Technical Degree,3,2,3,2,3,3,1,1,0,0
+RM1169,24,18-25,No,Travel_Frequently,567,Research & Development,2,1,Technical Degree,3,3,0,6,2,3,6,3,1,3
+RM1218,24,18-25,No,Travel_Rarely,581,Research & Development,9,3,Medical,3,4,1,5,1,3,5,3,0,4
+RM1223,24,18-25,Yes,Travel_Rarely,240,Human Resources,22,1,Human Resources,3,3,1,1,2,3,1,0,0,0
+RM1231,24,18-25,No,Travel_Rarely,506,Research & Development,29,1,Medical,3,2,3,6,2,4,6,2,1,2
+RM1246,24,18-25,No,Travel_Frequently,897,Human Resources,10,3,Medical,3,4,1,3,2,3,2,2,2,1
+RM1408,24,18-25,No,Travel_Rarely,771,Research & Development,1,2,Life Sciences,3,2,0,4,2,2,4,3,1,2
+RM108,25,18-25,Yes,Travel_Rarely,240,Sales,5,3,Marketing,3,4,0,6,1,3,6,4,0,3
+RM109,25,18-25,No,Travel_Rarely,1280,Research & Development,7,1,Medical,3,3,2,2,2,3,2,2,2,1
+RM139,25,18-25,No,Travel_Rarely,959,Sales,28,3,Life Sciences,3,4,0,6,3,3,2,2,2,null
+RM256,25,18-25,No,Travel_Rarely,685,Research & Development,1,3,Life Sciences,3,4,2,5,3,3,4,2,1,null
+RM268,25,18-25,No,Non-Travel,675,Research & Development,5,2,Life Sciences,3,4,2,6,2,3,6,3,1,5
+RM398,25,18-25,No,Travel_Rarely,891,Sales,4,2,Life Sciences,3,2,0,5,3,3,5,4,1,3
+RM406,25,18-25,Yes,Travel_Rarely,688,Research & Development,3,3,Medical,3,3,1,6,5,3,2,2,0,null
+RM479,25,18-25,No,Travel_Rarely,622,Sales,13,1,Medical,3,3,0,7,1,3,7,4,0,6
+RM518,25,18-25,No,Travel_Rarely,810,Sales,8,3,Life Sciences,4,3,1,4,4,3,3,2,1,2
+RM564,25,18-25,No,Travel_Rarely,883,Sales,26,1,Medical,4,2,0,6,5,2,6,5,1,4
+RM619,25,18-25,No,Travel_Rarely,180,Research & Development,2,1,Medical,3,3,0,6,3,2,4,3,0,1
+RM635,25,18-25,No,Travel_Rarely,141,Sales,3,1,Other,3,4,0,5,3,3,5,3,0,3
+RM639,25,18-25,No,Travel_Rarely,583,Sales,4,1,Marketing,3,1,0,5,1,4,5,2,0,3
+RM684,25,18-25,Yes,Travel_Rarely,867,Sales,19,2,Marketing,3,3,3,1,2,3,1,0,0,0
+RM797,25,18-25,Yes,Travel_Rarely,1219,Research & Development,4,1,Technical Degree,3,2,1,7,3,4,7,7,5,6
+RM886,25,18-25,No,Travel_Rarely,1356,Sales,10,4,Life Sciences,3,2,0,5,4,3,4,3,1,1
+RM912,25,18-25,Yes,Travel_Frequently,599,Sales,24,1,Life Sciences,3,4,0,1,4,3,1,0,1,0
+RM935,25,18-25,No,Travel_Rarely,266,Research & Development,1,3,Medical,3,4,0,2,3,2,2,2,2,1
+RM966,25,18-25,No,Travel_Rarely,882,Research & Development,19,1,Medical,3,3,3,7,6,2,3,2,1,2
+RM994,25,18-25,No,Travel_Rarely,1372,Sales,18,1,Life Sciences,3,2,0,6,3,2,3,2,1,2
+RM1004,25,18-25,No,Travel_Rarely,949,Research & Development,1,3,Technical Degree,3,2,1,7,2,2,3,2,0,2
+RM1022,25,18-25,Yes,Travel_Rarely,383,Sales,9,2,Life Sciences,3,1,0,6,2,3,3,2,2,2
+RM1175,25,18-25,No,Travel_Frequently,772,Research & Development,2,1,Life Sciences,3,3,2,7,6,3,7,7,0,7
+RM1412,25,18-25,No,Travel_Rarely,309,Human Resources,2,3,Human Resources,3,3,0,6,3,3,2,0,1,2
+RM1414,25,18-25,No,Travel_Rarely,977,Research & Development,2,1,Other,3,3,1,7,2,2,2,2,0,2
+RM1434,25,18-25,No,Travel_Rarely,1382,Sales,8,2,Other,4,2,1,6,3,2,5,3,0,4
+RM043,26,26-35,Yes,Travel_Rarely,1357,Research & Development,25,3,Life Sciences,3,3,0,1,2,2,1,0,0,1
+RM055,26,26-35,No,Travel_Rarely,1443,Sales,23,3,Marketing,3,3,1,5,2,2,2,2,0,0
+RM126,26,26-35,No,Travel_Rarely,841,Research & Development,6,3,Other,3,3,0,5,3,2,5,4,4,3
+RM135,26,26-35,No,Travel_Rarely,1355,Human Resources,25,1,Life Sciences,4,4,1,8,3,3,8,7,5,7
+RM279,26,26-35,No,Travel_Frequently,1479,Research & Development,1,3,Life Sciences,4,1,1,6,6,1,6,5,1,4
+RM285,26,26-35,No,Travel_Frequently,496,Research & Development,11,2,Medical,3,3,1,5,3,3,5,3,3,3
+RM289,26,26-35,Yes,Travel_Rarely,1449,Research & Development,16,4,Medical,3,4,1,5,2,3,3,2,0,2
+RM294,26,26-35,Yes,Travel_Rarely,950,Sales,4,4,Marketing,3,2,0,8,0,3,8,7,7,4
+RM356,26,26-35,No,Travel_Rarely,933,Sales,1,3,Life Sciences,3,2,1,8,3,3,8,7,7,7
+RM383,26,26-35,Yes,Travel_Frequently,575,Research & Development,3,1,Technical Degree,4,3,0,7,2,3,6,4,0,4
+RM419,26,26-35,No,Travel_Rarely,1349,Research & Development,23,3,Life Sciences,4,2,2,3,3,1,3,2,0,2
+RM454,26,26-35,Yes,Travel_Frequently,426,Human Resources,17,4,Life Sciences,3,2,1,8,2,2,7,7,1,0
+RM461,26,26-35,No,Travel_Rarely,775,Sales,29,2,Medical,3,1,2,8,5,3,0,0,0,0
+RM464,26,26-35,Yes,Travel_Rarely,471,Research & Development,24,3,Technical Degree,3,2,0,1,3,1,1,0,0,0
+RM476,26,26-35,No,Travel_Rarely,703,Sales,28,2,Marketing,4,4,2,6,5,4,5,3,1,4
+RM506,26,26-35,No,Travel_Rarely,991,Research & Development,6,3,Life Sciences,3,3,1,3,2,3,3,2,0,2
+RM572,26,26-35,No,Travel_Frequently,575,Research & Development,1,2,Life Sciences,3,1,1,5,2,3,2,2,2,0
+RM574,26,26-35,Yes,Travel_Rarely,1146,Sales,8,3,Technical Degree,3,3,0,6,2,2,4,3,1,2
+RM615,26,26-35,Yes,Travel_Frequently,887,Research & Development,5,2,Medical,3,1,1,8,2,3,8,7,1,7
+RM686,26,26-35,No,Travel_Frequently,1283,Sales,1,3,Medical,3,2,0,7,2,3,7,7,0,7
+RM734,26,26-35,No,Travel_Rarely,1066,Research & Development,2,2,Medical,3,2,0,8,2,3,8,7,1,3
+RM749,26,26-35,Yes,Non-Travel,265,Sales,29,2,Medical,3,4,0,7,6,3,2,2,2,2
+RM763,26,26-35,Yes,Travel_Frequently,342,Research & Development,2,3,Life Sciences,3,2,1,6,2,3,3,2,1,2
+RM770,26,26-35,No,Travel_Frequently,921,Research & Development,1,1,Medical,3,3,2,5,5,3,5,3,1,3
+RM782,26,26-35,No,Travel_Rarely,192,Research & Development,1,2,Medical,3,1,2,6,2,3,5,3,1,3
+RM798,26,26-35,Yes,Travel_Rarely,1330,Research & Development,21,3,Medical,4,3,1,1,0,2,1,1,0,0
+RM844,26,26-35,No,Travel_Rarely,1384,Research & Development,3,4,Medical,4,2,1,8,2,3,8,7,0,7
+RM913,26,26-35,No,Travel_Rarely,583,Research & Development,4,2,Life Sciences,4,2,0,8,2,2,8,5,2,2
+RM999,26,26-35,No,Travel_Rarely,683,Research & Development,2,1,Medical,3,4,0,5,2,3,4,3,1,1
+RM1005,26,26-35,No,Travel_Rarely,652,Research & Development,7,3,Other,3,4,0,8,2,3,7,7,0,7
+RM1119,26,26-35,No,Travel_Rarely,474,Research & Development,3,3,Life Sciences,4,1,0,1,5,3,1,0,0,0
+RM1207,26,26-35,No,Non-Travel,786,Research & Development,7,3,Medical,4,3,0,7,5,3,7,7,5,7
+RM1225,26,26-35,No,Travel_Rarely,390,Research & Development,17,4,Medical,3,3,3,3,3,4,3,2,0,2
+RM1298,26,26-35,Yes,Travel_Rarely,920,Human Resources,20,2,Medical,3,3,0,6,3,3,5,1,1,4
+RM1310,26,26-35,No,Travel_Rarely,572,Sales,10,3,Medical,3,1,0,5,4,3,5,3,1,2
+RM1350,26,26-35,No,Travel_Rarely,482,Research & Development,1,2,Life Sciences,3,3,1,1,3,2,1,0,1,0
+RM1362,26,26-35,No,Travel_Frequently,1096,Research & Development,6,3,Other,3,1,1,8,3,3,7,7,7,7
+RM1387,26,26-35,No,Travel_Rarely,157,Research & Development,1,3,Medical,3,4,0,8,6,2,7,7,7,6
+RM1465,26,26-35,No,Travel_Rarely,1167,Sales,5,3,Other,3,4,0,5,2,3,4,2,0,0
+RM1465,26,26-35,No,Travel_Rarely,1167,Sales,5,3,Other,3,4,0,5,2,3,4,2,0,5
+RM005,27,26-35,No,Travel_Rarely,591,Research & Development,2,1,Medical,3,4,1,6,3,3,2,2,2,2
+RM042,27,26-35,No,Travel_Rarely,1240,Research & Development,2,4,Life Sciences,3,4,1,1,6,3,1,0,0,0
+RM044,27,26-35,No,Travel_Frequently,994,Sales,8,3,Life Sciences,3,4,0,9,0,3,9,8,1,7
+RM162,27,26-35,No,Non-Travel,691,Research & Development,9,3,Medical,3,4,1,6,1,1,2,2,2,2
+RM165,27,26-35,No,Non-Travel,1450,Research & Development,3,3,Medical,3,4,1,1,2,2,1,1,0,1
+RM171,27,26-35,No,Travel_Rarely,1157,Research & Development,17,3,Technical Degree,3,4,1,6,3,2,5,2,1,1
+RM192,27,26-35,No,Travel_Rarely,894,Research & Development,9,3,Medical,3,4,0,7,2,2,7,7,0,3
+RM201,27,26-35,No,Travel_Frequently,472,Research & Development,1,1,Technical Degree,3,3,1,6,1,3,2,2,2,0
+RM213,27,26-35,No,Travel_Frequently,1242,Sales,20,3,Life Sciences,3,4,0,7,2,3,7,7,0,7
+RM319,27,26-35,No,Travel_Rarely,1220,Research & Development,5,3,Life Sciences,3,2,0,4,2,2,4,3,1,2
+RM321,27,26-35,No,Travel_Rarely,1377,Sales,2,3,Life Sciences,3,1,0,5,3,3,5,4,0,4
+RM332,27,26-35,No,Non-Travel,210,Sales,1,1,Marketing,3,4,1,6,0,3,5,4,1,4
+RM340,27,26-35,No,Travel_Rarely,1130,Sales,8,4,Marketing,3,1,1,8,3,3,8,7,0,7
+RM374,27,26-35,No,Travel_Rarely,1469,Research & Development,1,2,Medical,3,2,1,5,2,3,5,2,0,4
+RM486,27,26-35,No,Travel_Rarely,798,Research & Development,6,4,Medical,3,3,2,6,5,2,5,3,0,3
+RM496,27,26-35,Yes,Travel_Rarely,1420,Sales,2,1,Marketing,3,2,1,5,3,3,4,3,0,2
+RM513,27,26-35,No,Travel_Rarely,1115,Research & Development,3,4,Medical,3,4,0,5,0,3,4,2,1,1
+RM522,27,26-35,No,Travel_Frequently,1410,Sales,3,1,Medical,4,2,2,6,3,3,6,5,0,4
+RM531,27,26-35,No,Travel_Rarely,608,Research & Development,1,2,Life Sciences,3,4,0,9,3,3,9,7,0,7
+RM538,27,26-35,No,Travel_Frequently,294,Research & Development,10,2,Life Sciences,4,3,2,9,4,2,9,7,1,7
+RM555,27,26-35,No,Travel_Rarely,975,Research & Development,7,3,Medical,3,1,0,9,2,1,7,6,0,7
+RM577,27,26-35,No,Travel_Frequently,829,Sales,8,1,Marketing,3,2,1,5,3,3,4,2,1,1
+RM611,27,26-35,No,Travel_Rarely,269,Research & Development,5,1,Technical Degree,3,2,1,9,3,3,9,8,0,8
+RM616,27,26-35,No,Non-Travel,443,Research & Development,3,3,Medical,3,3,3,0,6,2,0,0,0,0
+RM671,27,26-35,No,Travel_Rarely,618,Research & Development,4,3,Life Sciences,3,3,0,1,2,3,1,1,0,0
+RM718,27,26-35,No,Travel_Rarely,1134,Research & Development,16,4,Technical Degree,3,2,1,4,2,3,2,2,2,2
+RM740,27,26-35,No,Travel_Rarely,1055,Research & Development,2,4,Life Sciences,3,2,1,4,2,3,3,2,2,2
+RM787,27,26-35,No,Non-Travel,1277,Research & Development,8,5,Life Sciences,3,4,3,3,4,3,3,2,1,2
+RM834,27,26-35,No,Travel_Rarely,199,Research & Development,6,3,Life Sciences,3,3,1,4,0,3,4,2,2,2
+RM890,27,26-35,No,Travel_Rarely,1103,Research & Development,14,3,Life Sciences,3,4,2,9,3,2,9,7,6,8
+RM903,27,26-35,No,Travel_Rarely,1167,Research & Development,4,2,Life Sciences,3,2,3,5,2,3,5,3,0,3
+RM971,27,26-35,No,Travel_Rarely,1291,Sales,11,3,Medical,3,2,1,5,4,3,1,0,0,0
+RM975,27,26-35,No,Travel_Frequently,793,Sales,2,1,Life Sciences,4,2,0,8,3,3,6,2,0,0
+RM997,27,26-35,No,Travel_Rarely,205,Sales,10,3,Marketing,3,4,0,6,3,3,6,2,4,4
+RM998,27,26-35,Yes,Travel_Rarely,135,Research & Development,17,4,Life Sciences,3,4,0,8,2,3,8,2,7,7
+RM1018,27,26-35,No,Travel_Rarely,1377,Research & Development,11,1,Life Sciences,3,2,0,6,3,4,5,0,1,4
+RM1150,27,26-35,No,Travel_Rarely,1302,Research & Development,19,3,Other,3,1,2,7,3,3,7,7,0,7
+RM1170,27,26-35,No,Travel_Rarely,486,Research & Development,8,3,Medical,3,1,0,5,0,3,3,2,0,2
+RM1171,27,26-35,No,Travel_Frequently,591,Research & Development,2,3,Medical,3,3,0,6,0,2,4,2,1,2
+RM1249,27,26-35,No,Travel_Rarely,1054,Research & Development,8,3,Medical,3,3,0,6,5,2,6,2,1,4
+RM1318,27,26-35,No,Travel_Frequently,1297,Research & Development,5,2,Life Sciences,3,3,0,6,3,2,5,4,0,2
+RM1329,27,26-35,No,Travel_Rarely,728,Sales,23,1,Medical,4,4,1,9,5,3,9,8,5,8
+RM1335,27,26-35,No,Travel_Frequently,1131,Research & Development,15,3,Life Sciences,3,4,1,8,2,2,7,6,7,3
+RM1351,27,26-35,No,Travel_Rarely,511,Sales,2,2,Medical,3,2,0,9,5,2,8,7,0,7
+RM1368,27,26-35,No,TravelRarely,1354,Research & Development,2,4,Technical Degree,3,3,1,6,3,2,5,3,1,2
+RM1380,27,26-35,Yes,Travel_Frequently,1337,Human Resources,22,3,Human Resources,3,1,0,1,2,3,1,0,0,0
+RM1394,27,26-35,No,Travel_Rarely,954,Sales,9,3,Marketing,3,1,0,7,5,3,7,7,0,7
+RM1468,27,26-35,No,Travel_Rarely,155,Research & Development,4,3,Life Sciences,4,2,1,6,0,3,6,2,0,3
+RM1468,27,26-35,No,Travel_Rarely,155,Research & Development,4,3,Life Sciences,4,2,1,6,0,3,6,2,0,3
+RM015,28,26-35,Yes,Travel_Rarely,103,Research & Development,24,3,Life Sciences,3,2,0,6,4,3,4,2,0,3
+RM052,28,26-35,Yes,Travel_Rarely,1434,Research & Development,5,4,Technical Degree,3,3,0,2,3,2,2,2,2,2
+RM098,28,26-35,No,Non-Travel,120,Sales,4,3,Medical,3,2,0,5,3,4,5,4,0,4
+RM163,28,26-35,No,Travel_Rarely,440,Research & Development,21,3,Medical,3,3,1,5,2,1,5,2,0,2
+RM265,28,26-35,Yes,Travel_Rarely,529,Research & Development,2,4,Life Sciences,3,3,0,5,5,1,0,0,0,0
+RM273,28,26-35,No,Travel_Rarely,1158,Research & Development,9,3,Medical,4,4,1,5,3,2,5,2,0,4
+RM290,28,26-35,No,Travel_Rarely,1117,Research & Development,8,2,Life Sciences,4,4,0,5,3,3,5,3,0,2
+RM303,28,26-35,No,Travel_Rarely,1476,Research & Development,16,2,Medical,3,3,0,9,2,3,8,3,0,7
+RM324,28,26-35,Yes,Travel_Rarely,1157,Research & Development,2,4,Medical,3,4,0,5,4,2,3,2,2,2
+RM375,28,26-35,No,Travel_Rarely,304,Sales,9,4,Life Sciences,3,4,0,7,1,3,7,5,0,7
+RM405,28,26-35,No,Travel_Rarely,1300,Research & Development,17,2,Medical,3,4,1,10,2,3,10,0,1,null
+RM541,28,26-35,Yes,Travel_Rarely,654,Research & Development,1,2,Life Sciences,3,4,0,10,4,3,7,7,3,7
+RM599,28,26-35,Yes,Travel_Rarely,890,Research & Development,2,4,Medical,3,4,0,5,3,2,2,2,2,1
+RM613,28,26-35,No,Travel_Rarely,760,Sales,2,4,Marketing,4,1,0,8,2,3,8,7,7,5
+RM630,28,26-35,No,Travel_Rarely,1169,Human Resources,8,2,Medical,3,4,1,6,6,3,5,1,0,4
+RM660,28,26-35,No,Travel_Rarely,821,Sales,5,4,Medical,3,2,0,4,3,3,4,2,0,2
+RM669,28,26-35,No,Travel_Rarely,995,Research & Development,9,3,Medical,3,2,1,6,2,3,2,2,2,2
+RM765,28,26-35,No,Travel_Rarely,1144,Sales,10,1,Medical,4,2,0,1,5,3,1,0,0,0
+RM781,28,26-35,Yes,Non-Travel,1366,Research & Development,24,2,Technical Degree,3,1,0,10,2,2,10,7,1,9
+RM789,28,26-35,No,Travel_Rarely,857,Research & Development,10,3,Other,3,4,0,10,4,4,8,7,1,7
+RM794,28,26-35,No,Travel_Rarely,895,Research & Development,15,2,Life Sciences,3,4,1,4,5,2,4,2,2,2
+RM801,28,26-35,Yes,Travel_Frequently,1009,Research & Development,1,3,Medical,3,1,2,1,2,3,1,0,0,0
+RM810,28,26-35,No,Travel_Rarely,950,Research & Development,3,3,Medical,3,2,3,10,3,2,9,7,1,7
+RM820,28,26-35,No,Travel_Rarely,1451,Research & Development,2,1,Life Sciences,3,1,0,6,2,1,5,3,0,4
+RM828,28,26-35,No,Travel_Frequently,773,Research & Development,6,3,Life Sciences,3,4,1,3,2,3,3,1,0,2
+RM843,28,26-35,Yes,Travel_Rarely,1485,Research & Development,12,1,Life Sciences,3,4,0,1,4,2,1,1,0,0
+RM869,28,26-35,No,Travel_Rarely,1179,Research & Development,19,4,Medical,3,3,3,6,2,3,6,5,3,3
+RM922,28,26-35,No,Travel_Frequently,791,Research & Development,1,4,Medical,3,3,0,5,2,2,4,2,0,2
+RM930,28,26-35,No,Travel_Frequently,193,Research & Development,2,3,Life Sciences,3,2,1,2,2,3,2,2,2,2
+RM934,28,26-35,No,Travel_Rarely,640,Research & Development,1,3,Technical Degree,3,2,0,5,2,2,3,2,1,2
+RM945,28,26-35,No,Non-Travel,1476,Research & Development,1,3,Life Sciences,3,1,3,10,6,3,9,8,7,5
+RM985,28,26-35,No,Travel_Rarely,736,Sales,26,3,Life Sciences,3,3,1,5,0,3,5,3,0,4
+RM1042,28,26-35,No,Travel_Rarely,866,Sales,5,3,Medical,3,4,0,6,4,3,5,4,1,3
+RM1057,28,26-35,Yes,Travel_Frequently,1496,Sales,1,3,Technical Degree,3,4,1,5,3,4,3,2,1,2
+RM1069,28,26-35,Yes,Travel_Frequently,289,Research & Development,2,2,Medical,3,3,0,8,2,2,0,0,0,0
+RM1070,28,26-35,No,Travel_Rarely,1423,Research & Development,1,3,Life Sciences,3,4,1,1,2,1,1,0,0,0
+RM1071,28,26-35,No,Travel_Frequently,467,Sales,7,3,Life Sciences,3,4,0,5,5,3,4,2,1,3
+RM1074,28,26-35,No,Travel_Rarely,1083,Research & Development,29,1,Life Sciences,3,2,2,8,2,2,8,6,1,7
+RM1137,28,26-35,Yes,Travel_Rarely,329,Research & Development,24,3,Medical,3,3,3,1,3,3,1,1,0,0
+RM1152,28,26-35,No,Travel_Rarely,580,Research & Development,27,3,Medical,4,2,1,6,5,2,5,3,0,0
+RM1284,28,26-35,No,Travel_Rarely,1181,Research & Development,1,3,Life Sciences,3,3,1,5,6,4,5,3,0,3
+RM1308,28,26-35,No,Travel_Rarely,1217,Research & Development,1,3,Medical,4,3,1,3,3,3,3,2,1,2
+RM1324,28,26-35,No,Non-Travel,280,Human Resources,1,2,Life Sciences,3,2,1,3,2,3,3,2,2,2
+RM1338,28,26-35,No,Travel_Rarely,1172,Sales,3,3,Medical,3,4,1,1,3,3,1,0,0,0
+RM1365,28,26-35,No,Travel_Frequently,783,Sales,1,2,Life Sciences,3,3,1,7,2,3,7,7,0,7
+RM1370,28,26-35,Yes,Travel_Rarely,1475,Sales,13,2,Marketing,3,4,0,6,0,3,2,0,2,2
+RM1382,28,26-35,No,Non-Travel,1103,Research & Development,16,3,Medical,3,3,0,5,3,2,5,3,1,4
+RM1391,28,26-35,Yes,Travel_Rarely,1404,Research & Development,17,3,Technical Degree,3,1,1,6,2,2,4,1,0,3
+RM012,29,26-35,No,Travel_Rarely,153,Research & Development,15,2,Life Sciences,3,4,0,10,3,3,9,5,0,8
+RM016,29,26-35,No,Travel_Rarely,1389,Research & Development,21,4,Life Sciences,3,3,1,10,1,3,10,9,8,8
+RM072,29,26-35,No,Travel_Rarely,1328,Research & Development,2,3,Life Sciences,4,4,1,6,3,3,5,4,0,null
+RM156,29,26-35,No,Non-Travel,1496,Research & Development,1,1,Technical Degree,3,1,1,10,1,3,10,7,0,9
+RM206,29,26-35,Yes,Travel_Rarely,121,Sales,27,3,Marketing,4,4,3,10,3,2,10,4,1,null
+RM218,29,26-35,Yes,Travel_Rarely,992,Research & Development,1,3,Technical Degree,3,4,0,7,1,2,6,2,1,5
+RM228,29,26-35,No,Travel_Frequently,1413,Sales,1,1,Medical,3,4,1,11,5,3,11,10,4,1
+RM230,29,26-35,Yes,Travel_Rarely,896,Research & Development,18,1,Medical,3,3,0,4,3,2,4,3,0,1
+RM253,29,26-35,No,Travel_Rarely,665,Research & Development,15,3,Life Sciences,3,1,0,6,1,3,6,5,1,null
+RM255,29,26-35,No,Travel_Rarely,1247,Sales,20,2,Marketing,3,4,1,10,2,3,3,2,0,null
+RM266,29,26-35,No,Travel_Rarely,1210,Sales,2,3,Medical,3,2,2,10,2,3,0,0,0,0
+RM283,29,26-35,No,Travel_Frequently,442,Sales,2,2,Life Sciences,3,1,0,10,3,2,10,7,0,9
+RM337,29,26-35,Yes,Travel_Rarely,318,Research & Development,8,4,Other,3,4,0,7,4,2,7,7,0,7
+RM338,29,26-35,No,Travel_Rarely,738,Research & Development,9,5,Other,3,3,0,4,2,3,3,2,2,2
+RM344,29,26-35,No,Travel_Rarely,144,Sales,10,1,Marketing,3,1,2,7,2,3,7,7,1,7
+RM350,29,26-35,No,Non-Travel,746,Sales,2,3,Life Sciences,3,1,1,4,3,2,4,3,0,2
+RM372,29,26-35,No,Travel_Rarely,1283,Research & Development,23,3,Life Sciences,3,4,0,6,4,3,3,2,1,2
+RM421,29,26-35,No,Travel_Rarely,986,Research & Development,3,4,Medical,3,3,0,10,2,3,10,2,0,7
+RM422,29,26-35,Yes,Travel_Rarely,408,Research & Development,25,5,Technical Degree,3,2,0,6,2,4,2,2,1,1
+RM455,29,26-35,No,Travel_Rarely,232,Research & Development,19,3,Technical Degree,3,2,2,8,2,4,3,2,1,2
+RM508,29,26-35,No,Travel_Rarely,1176,Sales,3,2,Medical,3,1,1,6,5,2,6,0,1,2
+RM520,29,26-35,No,Travel_Frequently,806,Research & Development,1,4,Life Sciences,3,4,1,10,5,3,10,7,2,8
+RM547,29,26-35,No,Travel_Rarely,1396,Sales,10,3,Life Sciences,3,3,0,1,6,3,1,0,0,0
+RM556,29,26-35,No,Travel_Rarely,1090,Sales,10,3,Marketing,3,4,2,2,2,3,2,2,2,2
+RM573,29,26-35,No,Travel_Rarely,657,Research & Development,27,3,Medical,3,1,1,11,3,2,8,7,1,1
+RM590,29,26-35,Yes,Travel_Rarely,805,Research & Development,1,2,Life Sciences,3,4,1,1,1,3,1,0,0,0
+RM595,29,26-35,No,Travel_Rarely,1252,Research & Development,23,2,Life Sciences,4,3,1,10,3,3,10,7,0,7
+RM646,29,26-35,Yes,Travel_Rarely,341,Sales,1,3,Medical,3,3,3,5,3,3,3,2,0,2
+RM658,29,26-35,No,Travel_Rarely,1086,Research & Development,7,1,Medical,3,3,3,8,5,3,4,3,0,3
+RM698,29,26-35,No,Travel_Frequently,1404,Sales,20,3,Technical Degree,3,2,1,3,5,3,3,1,0,2
+RM712,29,26-35,Yes,Travel_Rarely,906,Research & Development,10,3,Life Sciences,4,3,0,3,5,3,0,0,0,0
+RM809,29,26-35,No,Travel_Rarely,1107,Research & Development,28,4,Life Sciences,4,1,1,11,1,3,7,5,1,7
+RM824,29,26-35,No,Travel_Frequently,490,Research & Development,10,3,Life Sciences,3,4,2,8,2,2,7,5,1,1
+RM826,29,26-35,No,Travel_Rarely,718,Research & Development,8,1,Medical,3,3,1,10,2,2,10,7,1,2
+RM837,29,26-35,Yes,Travel_Rarely,408,Sales,23,1,Life Sciences,3,1,1,11,3,1,11,8,3,10
+RM853,29,26-35,No,Travel_Rarely,1401,Research & Development,6,1,Medical,3,1,1,10,5,3,10,8,0,8
+RM860,29,26-35,No,Travel_Rarely,942,Research & Development,15,1,Life Sciences,3,1,1,6,2,2,5,4,1,3
+RM894,29,26-35,No,Travel_Rarely,1010,Research & Development,1,3,Life Sciences,3,1,3,3,5,3,3,2,1,2
+RM904,29,26-35,No,Travel_Rarely,1329,Research & Development,7,3,Life Sciences,3,2,2,6,2,3,6,0,1,0
+RM906,29,26-35,No,Travel_Rarely,694,Research & Development,1,3,Life Sciences,3,2,2,9,2,2,7,7,1,7
+RM933,29,26-35,Yes,Travel_Rarely,806,Research & Development,7,3,Technical Degree,3,1,2,10,2,3,7,7,7,7
+RM1006,29,26-35,No,Travel_Rarely,332,Human Resources,17,3,Other,3,1,0,10,3,2,10,9,0,9
+RM1008,29,26-35,Yes,Travel_Frequently,337,Research & Development,14,1,Other,3,1,0,9,1,3,8,7,7,7
+RM1058,29,26-35,Yes,Travel_Frequently,115,Sales,13,3,Technical Degree,3,1,0,7,4,1,5,3,0,0
+RM1064,29,26-35,No,Travel_Rarely,1246,Sales,19,3,Life Sciences,3,3,2,10,3,3,10,7,0,4
+RM1073,29,26-35,No,Travel_Frequently,410,Research & Development,2,1,Life Sciences,3,3,3,4,3,3,3,2,0,2
+RM1078,29,26-35,Yes,Travel_Rarely,224,Research & Development,1,4,Technical Degree,3,3,0,11,2,1,9,7,0,7
+RM1091,29,26-35,No,Travel_Rarely,441,Research & Development,8,1,Other,3,3,1,9,3,3,7,7,0,7
+RM1105,29,26-35,No,Travel_Rarely,598,Research & Development,9,3,Life Sciences,3,1,2,5,2,2,1,0,0,0
+RM1123,29,26-35,No,Travel_Rarely,1370,Research & Development,3,1,Medical,3,4,0,10,3,3,10,9,1,5
+RM1126,29,26-35,No,Travel_Frequently,995,Research & Development,2,1,Life Sciences,3,4,1,6,0,4,6,4,1,3
+RM1173,29,26-35,No,Travel_Rarely,469,Sales,10,3,Medical,3,3,0,8,2,3,5,2,1,4
+RM1189,29,26-35,No,Travel_Rarely,991,Sales,5,3,Medical,3,2,1,10,3,2,10,0,0,9
+RM1220,29,26-35,No,Travel_Rarely,1082,Research & Development,9,4,Medical,3,3,1,9,2,3,5,3,1,2
+RM1250,29,26-35,Yes,Travel_Rarely,428,Sales,9,3,Marketing,3,3,0,2,3,3,2,2,2,2
+RM1251,29,26-35,No,Travel_Frequently,461,Research & Development,1,3,Life Sciences,3,4,0,10,5,4,3,2,0,2
+RM1259,29,26-35,No,Travel_Rarely,590,Research & Development,4,3,Technical Degree,3,3,1,1,2,3,1,0,0,0
+RM1314,29,26-35,Yes,Travel_Rarely,350,Human Resources,13,3,Human Resources,3,4,3,4,3,3,2,2,2,0
+RM1319,29,26-35,No,Travel_Frequently,574,Research & Development,20,1,Medical,3,2,0,11,3,4,11,8,3,10
+RM1325,29,26-35,No,Travel_Rarely,726,Research & Development,29,1,Life Sciences,3,4,2,11,3,3,7,0,1,6
+RM1330,29,26-35,No,TravelRarely,352,Human Resources,6,1,Medical,3,4,0,1,3,3,1,0,0,0
+RM1333,29,26-35,Yes,Travel_Frequently,459,Research & Development,24,2,Life Sciences,4,2,0,1,3,2,1,0,1,0
+RM1344,29,26-35,No,Travel_Rarely,592,Research & Development,7,3,Life Sciences,3,2,0,11,2,3,3,2,1,2
+RM1366,29,26-35,Yes,Travel_Frequently,746,Sales,24,3,Technical Degree,3,4,0,1,3,3,1,0,0,0
+RM1388,29,26-35,No,Travel_Rarely,136,Research & Development,1,3,Life Sciences,3,1,1,6,5,2,5,3,0,2
+RM1443,29,26-35,Yes,Travel_Rarely,1092,Research & Development,1,4,Medical,3,2,3,4,3,4,2,2,2,2
+RM1460,29,26-35,No,Travel_Rarely,1378,Research & Development,13,2,Other,3,1,1,10,2,3,4,3,0,3
+RM1461,29,26-35,No,Travel_Rarely,468,Research & Development,28,4,Medical,3,2,0,5,3,1,5,4,0,4
+RM1461,29,26-35,No,Travel_Rarely,468,Research & Development,28,4,Medical,3,2,0,5,3,1,5,4,0,4
+RM008,30,26-35,No,Travel_Rarely,1358,Research & Development,24,1,Life Sciences,4,2,1,1,2,3,1,0,0,null
+RM033,30,26-35,No,Travel_Rarely,125,Research & Development,9,2,Medical,3,1,0,10,5,3,10,0,1,8
+RM045,30,26-35,No,Travel_Frequently,721,Research & Development,1,2,Medical,4,4,0,12,2,3,12,8,3,7
+RM081,30,26-35,No,Travel_Rarely,852,Research & Development,1,1,Life Sciences,3,3,2,10,1,2,10,8,3,0
+RM089,30,26-35,No,Travel_Rarely,288,Research & Development,2,3,Life Sciences,3,1,3,11,3,3,11,10,10,8
+RM093,30,26-35,No,Travel_Rarely,1334,Sales,4,2,Medical,3,2,3,11,4,2,11,8,2,7
+RM121,30,26-35,No,Travel_Frequently,1312,Research & Development,23,3,Life Sciences,4,3,3,10,2,2,10,7,0,9
+RM140,30,26-35,No,Travel_Rarely,1240,Human Resources,9,3,Human Resources,3,4,0,12,2,1,11,9,4,null
+RM144,30,26-35,No,Travel_Rarely,438,Research & Development,18,3,Life Sciences,3,3,0,5,4,2,5,4,0,null
+RM146,30,26-35,No,Travel_Rarely,201,Research & Development,5,3,Technical Degree,3,4,1,8,3,3,3,2,2,null
+RM147,30,26-35,No,Travel_Rarely,1427,Research & Development,2,1,Medical,3,4,0,6,3,3,5,3,1,null
+RM168,30,26-35,No,Travel_Rarely,1339,Sales,5,3,Life Sciences,3,3,1,12,2,3,10,9,7,4
+RM174,30,26-35,No,Non-Travel,111,Research & Development,9,3,Medical,3,3,2,12,4,3,12,9,6,10
+RM212,30,26-35,No,Non-Travel,829,Research & Development,1,1,Life Sciences,4,3,0,12,2,3,11,8,5,8
+RM215,30,26-35,Yes,Travel_Rarely,1005,Research & Development,3,3,Technical Degree,3,3,0,8,5,3,5,2,0,4
+RM217,30,26-35,Yes,Travel_Frequently,334,Sales,26,4,Marketing,3,3,0,9,5,2,6,3,0,1
+RM325,30,26-35,No,Travel_Rarely,1275,Research & Development,28,2,Medical,3,4,2,11,2,3,10,8,1,9
+RM339,30,26-35,No,Travel_Rarely,570,Sales,5,3,Marketing,3,3,3,10,2,3,10,9,1,2
+RM355,30,26-35,No,Non-Travel,641,Sales,25,2,Technical Degree,3,2,1,4,2,4,2,2,2,2
+RM382,30,26-35,No,Travel_Rarely,202,Sales,2,1,Technical Degree,3,1,1,1,3,3,1,0,0,0
+RM386,30,26-35,Yes,Travel_Frequently,464,Research & Development,4,3,Technical Degree,4,3,0,3,4,3,1,0,0,0
+RM403,30,26-35,No,Travel_Rarely,1082,Sales,12,3,Technical Degree,3,2,0,6,6,3,5,4,4,4
+RM411,30,26-35,No,Travel_Rarely,317,Research & Development,2,3,Life Sciences,4,3,0,11,2,3,5,4,0,2
+RM420,30,26-35,No,Non-Travel,1400,Research & Development,3,3,Life Sciences,3,3,1,9,3,1,5,3,1,4
+RM424,30,26-35,No,Non-Travel,1398,Sales,22,4,Other,3,3,0,10,3,3,9,8,7,8
+RM427,30,26-35,No,Non-Travel,1116,Research & Development,2,3,Medical,3,3,0,12,2,2,11,7,6,7
+RM438,30,26-35,No,Travel_Rarely,413,Sales,7,1,Marketing,3,1,0,4,3,3,3,2,1,2
+RM481,30,26-35,Yes,Travel_Frequently,448,Sales,12,4,Life Sciences,3,3,1,1,2,4,1,0,0,0
+RM502,30,26-35,No,Travel_Frequently,160,Research & Development,3,3,Medical,4,3,1,1,2,3,1,0,0,0
+RM546,30,26-35,No,Travel_Rarely,501,Sales,27,5,Marketing,4,4,1,10,2,2,8,7,7,7
+RM582,30,26-35,No,Travel_Rarely,921,Research & Development,1,3,Life Sciences,4,3,2,7,2,3,2,2,0,2
+RM603,30,26-35,No,Travel_Rarely,946,Research & Development,2,3,Medical,4,2,0,12,4,2,0,0,0,0
+RM624,30,26-35,No,Travel_Frequently,1012,Research & Development,5,4,Life Sciences,3,2,1,10,3,2,5,4,0,3
+RM703,30,26-35,No,Travel_Rarely,231,Sales,8,2,Other,3,1,1,10,2,4,8,4,7,7
+RM721,30,26-35,Yes,Travel_Rarely,138,Research & Development,22,3,Life Sciences,3,2,0,7,2,3,5,2,0,1
+RM731,30,26-35,No,Travel_Rarely,153,Research & Development,8,2,Life Sciences,3,3,3,9,4,2,8,7,1,7
+RM733,30,26-35,Yes,Travel_Frequently,109,Research & Development,5,3,Medical,3,1,0,4,3,3,3,2,1,2
+RM783,30,26-35,No,Travel_Rarely,1176,Research & Development,20,3,Other,3,3,1,7,1,2,6,2,0,2
+RM845,30,26-35,No,Travel_Rarely,852,Sales,10,3,Marketing,3,1,1,10,3,3,10,3,1,4
+RM866,30,26-35,No,Travel_Rarely,1329,Sales,29,4,Life Sciences,3,3,3,8,3,3,4,3,0,3
+RM875,30,26-35,No,Travel_Rarely,853,Research & Development,7,4,Life Sciences,3,1,3,10,4,2,10,7,8,9
+RM887,30,26-35,No,Travel_Rarely,1465,Research & Development,1,3,Medical,4,1,1,12,2,3,11,9,5,7
+RM932,30,26-35,No,Non-Travel,879,Research & Development,9,2,Medical,3,3,0,10,3,3,8,4,1,7
+RM942,30,26-35,No,Travel_Rarely,1138,Research & Development,6,3,Technical Degree,3,1,1,10,6,3,9,2,6,7
+RM949,30,26-35,No,Travel_Rarely,634,Research & Development,17,4,Medical,4,4,2,9,2,3,9,1,0,8
+RM1014,30,26-35,No,Travel_Rarely,855,Sales,7,4,Marketing,3,2,2,8,3,3,3,2,0,2
+RM1050,30,26-35,No,Travel_Rarely,1358,Sales,16,1,Life Sciences,3,3,2,4,2,2,2,1,2,2
+RM1053,30,26-35,No,Non-Travel,990,Research & Development,7,3,Technical Degree,3,2,2,1,2,2,1,0,0,0
+RM1065,30,26-35,No,Travel_Rarely,330,Human Resources,1,3,Life Sciences,4,1,1,6,3,4,5,3,1,3
+RM1107,30,26-35,Yes,Travel_Rarely,740,Sales,1,3,Life Sciences,3,4,1,10,4,3,10,8,6,7
+RM1110,30,26-35,No,Travel_Rarely,1288,Sales,29,4,Technical Degree,3,2,1,9,3,3,4,2,1,3
+RM1142,30,26-35,No,Travel_Rarely,241,Research & Development,7,3,Medical,3,2,1,6,3,2,6,4,1,1
+RM1234,30,26-35,No,Travel_Rarely,793,Research & Development,16,1,Life Sciences,3,2,1,10,2,2,10,0,0,8
+RM1245,30,26-35,No,Travel_Frequently,1312,Research & Development,2,4,Technical Degree,3,4,0,10,2,3,9,7,0,7
+RM1247,30,26-35,Yes,Travel_Frequently,600,Human Resources,8,3,Human Resources,3,3,1,6,0,2,4,2,1,2
+RM1252,30,26-35,No,Travel_Rarely,979,Sales,15,2,Marketing,3,1,1,12,2,3,7,7,1,7
+RM1260,30,26-35,No,Travel_Rarely,305,Research & Development,16,3,Life Sciences,3,3,1,10,3,3,7,0,1,7
+RM1297,30,26-35,No,Travel_Rarely,1092,Research & Development,10,3,Medical,3,2,0,9,3,3,7,7,0,2
+RM1339,30,26-35,Yes,Travel_Rarely,945,Sales,9,3,Medical,3,3,0,1,3,2,1,0,0,0
+RM1413,30,26-35,No,Travel_Rarely,911,Research & Development,1,2,Medical,3,3,0,12,6,2,12,8,1,7
+RM013,31,26-35,No,Travel_Rarely,670,Research & Development,26,1,Life Sciences,3,4,1,5,1,2,5,2,4,3
+RM059,31,26-35,No,Travel_Rarely,655,Research & Development,7,4,Life Sciences,4,4,1,10,3,2,7,7,1,7
+RM073,31,26-35,No,Travel_Rarely,1082,Research & Development,1,4,Medical,3,2,0,1,4,3,1,1,1,null
+RM076,31,26-35,No,Travel_Rarely,746,Research & Development,8,4,Life Sciences,4,4,0,11,2,3,11,7,1,null
+RM125,31,26-35,Yes,Travel_Rarely,249,Sales,6,4,Life Sciences,3,2,0,12,3,2,7,7,7,7
+RM133,31,26-35,Yes,Travel_Rarely,542,Sales,20,3,Life Sciences,3,3,1,4,2,3,2,2,2,2
+RM181,31,26-35,No,Travel_Rarely,140,Research & Development,12,1,Medical,4,3,1,7,0,3,4,2,0,2
+RM225,31,26-35,No,Non-Travel,979,Research & Development,1,4,Medical,3,4,1,6,2,3,5,4,1,4
+RM246,31,26-35,No,Travel_Frequently,1327,Research & Development,3,4,Medical,3,1,1,9,3,3,2,2,2,2
+RM260,31,26-35,Yes,Travel_Frequently,307,Research & Development,29,2,Medical,3,2,0,6,2,4,5,4,1,4
+RM267,31,26-35,No,Travel_Rarely,1463,Research & Development,23,3,Medical,4,2,1,10,2,3,9,0,7,8
+RM293,31,26-35,No,Travel_Frequently,444,Sales,5,3,Marketing,3,3,1,2,5,2,2,2,2,2
+RM304,31,26-35,No,Travel_Rarely,218,Sales,7,3,Technical Degree,3,2,1,10,3,2,8,7,7,7
+RM310,31,26-35,No,Travel_Rarely,691,Research & Development,5,4,Technical Degree,3,3,1,6,4,3,5,2,0,3
+RM311,31,26-35,No,Travel_Rarely,106,Human Resources,2,3,Human Resources,3,4,0,9,1,3,2,2,1,0
+RM313,31,26-35,No,Travel_Rarely,192,Research & Development,2,4,Life Sciences,3,2,1,3,2,1,2,2,2,2
+RM322,31,26-35,No,Travel_Rarely,691,Sales,7,3,Marketing,3,4,3,13,3,3,7,7,1,7
+RM326,31,26-35,No,Travel_Frequently,798,Research & Development,7,2,Life Sciences,4,1,1,10,2,3,10,9,8,9
+RM343,31,26-35,No,Travel_Rarely,1232,Research & Development,7,4,Medical,3,3,0,11,2,2,11,9,4,10
+RM370,31,26-35,No,Travel_Rarely,408,Research & Development,9,4,Life Sciences,3,4,0,3,5,3,2,2,2,2
+RM395,31,26-35,No,Travel_Rarely,480,Research & Development,7,2,Medical,3,2,1,13,5,1,13,10,3,12
+RM400,31,26-35,No,Travel_Rarely,329,Research & Development,1,2,Life Sciences,3,3,1,4,3,3,4,2,3,2
+RM435,31,26-35,No,Travel_Rarely,1274,Research & Development,9,1,Life Sciences,4,4,1,13,6,4,13,8,0,8
+RM440,31,26-35,Yes,Travel_Frequently,534,Research & Development,20,3,Life Sciences,3,1,0,12,2,3,1,0,0,0
+RM451,31,26-35,No,Travel_Rarely,828,Sales,2,1,Life Sciences,3,3,0,10,2,4,6,5,0,5
+RM457,31,26-35,No,Travel_Rarely,688,Sales,7,3,Life Sciences,4,3,1,10,3,2,5,4,0,1
+RM483,31,26-35,Yes,Travel_Rarely,1365,Sales,13,4,Medical,3,3,0,9,2,1,3,1,1,2
+RM485,31,26-35,No,Travel_Rarely,525,Sales,6,4,Medical,4,4,2,13,4,4,7,7,5,7
+RM645,31,26-35,No,Travel_Rarely,1222,Research & Development,11,4,Life Sciences,3,2,1,8,2,3,6,4,0,2
+RM676,31,26-35,No,Travel_Rarely,154,Sales,7,4,Life Sciences,3,2,0,13,2,4,7,7,5,2
+RM680,31,26-35,No,Non-Travel,1188,Sales,20,2,Marketing,3,4,1,9,2,2,9,8,0,0
+RM691,31,26-35,No,Travel_Rarely,616,Research & Development,12,3,Medical,3,3,2,10,2,1,9,7,8,5
+RM710,31,26-35,Yes,Non-Travel,335,Research & Development,9,2,Medical,4,1,0,4,0,3,3,2,1,2
+RM727,31,26-35,No,Travel_Frequently,853,Research & Development,1,1,Life Sciences,3,3,1,4,1,3,4,3,0,3
+RM819,31,26-35,No,Travel_Frequently,793,Sales,20,3,Life Sciences,3,1,1,3,4,3,2,2,2,2
+RM832,31,26-35,Yes,Travel_Frequently,874,Research & Development,15,3,Medical,3,3,1,2,5,2,2,2,2,2
+RM896,31,26-35,No,Travel_Rarely,1332,Research & Development,11,2,Medical,3,4,0,6,2,2,6,5,0,1
+RM897,31,26-35,No,Travel_Rarely,1062,Research & Development,24,3,Medical,3,2,0,10,2,3,10,9,1,8
+RM951,31,26-35,No,Non-Travel,587,Sales,2,4,Life Sciences,3,1,1,10,5,2,10,8,9,6
+RM953,31,26-35,Yes,Travel_Frequently,1060,Sales,1,3,Life Sciences,3,1,0,3,2,4,3,2,2,2
+RM981,31,26-35,Yes,Travel_Frequently,703,Sales,2,3,Life Sciences,3,3,0,3,3,4,1,0,0,0
+RM986,31,26-35,Yes,Travel_Rarely,330,Research & Development,22,4,Medical,3,4,2,10,3,2,10,2,6,7
+RM1013,31,26-35,Yes,Travel_Frequently,667,Sales,1,4,Life Sciences,3,2,0,1,3,3,1,0,0,0
+RM1015,31,26-35,No,Travel_Rarely,182,Research & Development,8,5,Life Sciences,3,3,0,9,3,4,3,2,1,0
+RM1017,31,26-35,Yes,Travel_Rarely,202,Research & Development,8,3,Life Sciences,3,3,0,1,3,4,1,0,0,0
+RM1031,31,26-35,No,Travel_Rarely,326,Sales,8,2,Life Sciences,3,1,1,13,5,3,13,7,9,9
+RM1034,31,26-35,Yes,Travel_Frequently,1445,Research & Development,1,5,Life Sciences,3,1,0,10,2,3,10,8,4,7
+RM1036,31,26-35,No,Travel_Rarely,1398,Human Resources,8,2,Medical,3,4,0,8,3,3,3,2,0,2
+RM1037,31,26-35,Yes,Travel_Frequently,523,Research & Development,2,3,Life Sciences,3,3,1,7,2,1,2,2,2,2
+RM1086,31,26-35,Yes,Travel_Frequently,561,Research & Development,3,3,Life Sciences,3,1,0,7,2,1,7,2,7,7
+RM1145,31,26-35,No,Travel_Frequently,715,Sales,2,4,Other,3,4,0,10,3,3,5,2,0,3
+RM1192,31,26-35,No,Travel_Rarely,1112,Sales,5,4,Life Sciences,3,1,2,10,2,3,10,0,0,2
+RM1228,31,26-35,No,Travel_Rarely,741,Research & Development,2,4,Life Sciences,3,4,1,6,2,4,5,2,0,3
+RM1240,31,26-35,No,Travel_Frequently,163,Research & Development,24,1,Technical Degree,4,4,0,9,3,2,5,4,1,4
+RM1248,31,26-35,No,Travel_Rarely,1003,Sales,5,3,Technical Degree,3,3,1,6,3,3,5,2,0,2
+RM1258,31,26-35,Yes,Travel_Rarely,1079,Sales,16,4,Marketing,3,1,3,10,2,3,1,0,0,0
+RM1275,31,26-35,No,Travel_Rarely,196,Sales,29,4,Marketing,3,1,2,13,3,3,12,7,5,7
+RM1307,31,26-35,No,Travel_Frequently,1125,Sales,7,4,Marketing,3,4,2,9,3,3,3,2,2,2
+RM1313,31,26-35,Yes,Travel_Rarely,359,Human Resources,18,5,Human Resources,3,3,0,2,4,3,1,0,0,0
+RM1342,31,26-35,No,Travel_Rarely,311,Research & Development,20,3,Life Sciences,3,1,1,10,2,3,10,8,0,2
+RM1359,31,26-35,No,Travel_Rarely,1079,Sales,10,2,Medical,3,4,1,8,2,3,5,2,1,4
+RM1361,31,26-35,No,Travel_Rarely,471,Research & Development,4,3,Medical,3,2,1,4,0,2,2,2,2,2
+RM1383,31,26-35,No,Non-Travel,976,Research & Development,3,2,Medical,3,4,1,4,3,4,4,2,2,3
+RM1390,31,26-35,No,Travel_Frequently,1125,Research & Development,1,3,Life Sciences,4,2,0,10,6,3,10,8,8,7
+RM1396,31,26-35,Yes,Travel_Frequently,754,Sales,26,4,Marketing,3,3,0,10,4,3,10,7,0,8
+RM1403,31,26-35,No,Travel_Rarely,1276,Research & Development,2,1,Medical,3,3,3,1,4,3,1,0,0,0
+RM1406,31,26-35,No,Non-Travel,697,Research & Development,10,3,Medical,4,3,1,13,2,4,11,7,4,8
+RM1418,31,26-35,No,Travel_Rarely,1154,Sales,2,2,Life Sciences,3,3,1,3,1,3,2,2,1,2
+RM1464,31,26-35,No,Non-Travel,325,Research & Development,5,3,Medical,3,2,0,10,2,3,9,4,1,7
+RM1464,31,26-35,No,Non-Travel,325,Research & Development,5,3,Medical,3,2,0,10,2,3,9,4,1,7
+RM006,32,26-35,No,Travel_Frequently,1005,Research & Development,2,2,Life Sciences,3,3,0,8,2,2,7,7,3,6
+RM017,32,26-35,No,Travel_Rarely,334,Research & Development,5,2,Life Sciences,3,4,2,7,5,2,6,2,0,5
+RM027,32,26-35,Yes,Travel_Frequently,1125,Research & Development,16,1,Life Sciences,4,2,0,10,5,3,10,2,6,null
+RM061,32,26-35,No,Travel_Rarely,427,Research & Development,1,3,Medical,4,2,1,9,3,3,9,8,7,8
+RM074,32,26-35,No,Travel_Rarely,548,Research & Development,1,3,Life Sciences,3,2,2,10,3,3,10,4,0,null
+RM095,32,26-35,No,Travel_Rarely,1093,Sales,6,4,Medical,3,1,0,12,0,3,11,8,5,7
+RM102,32,26-35,No,Travel_Rarely,827,Research & Development,1,1,Life Sciences,3,4,0,1,2,3,1,0,0,0
+RM141,32,26-35,Yes,Travel_Rarely,1033,Research & Development,9,3,Medical,4,1,0,10,2,4,5,4,0,null
+RM145,32,26-35,No,Travel_Frequently,689,Sales,9,2,Medical,3,4,3,9,2,4,8,7,0,null
+RM155,32,26-35,No,Travel_Frequently,967,Sales,8,3,Marketing,3,4,0,9,2,3,9,8,3,7
+RM170,32,26-35,No,Travel_Rarely,120,Research & Development,6,5,Life Sciences,4,1,0,8,2,3,5,4,1,4
+RM211,32,26-35,Yes,Travel_Rarely,1045,Sales,4,4,Medical,3,3,0,14,2,2,14,8,9,null
+RM239,32,26-35,No,Travel_Rarely,1401,Sales,4,2,Life Sciences,3,1,1,6,5,3,4,3,1,2
+RM240,32,26-35,Yes,Travel_Rarely,515,Research & Development,1,3,Life Sciences,3,4,0,4,2,1,3,2,1,2
+RM242,32,26-35,No,Non-Travel,976,Sales,26,4,Marketing,3,1,0,4,2,3,3,2,2,2
+RM261,32,26-35,No,Travel_Frequently,1311,Research & Development,7,3,Life Sciences,4,3,0,5,3,1,5,1,0,3
+RM263,32,26-35,No,Travel_Rarely,128,Research & Development,2,1,Technical Degree,3,4,0,9,5,3,6,2,0,4
+RM307,32,26-35,No,Travel_Rarely,906,Sales,7,3,Life Sciences,3,3,1,13,3,2,13,8,4,8
+RM320,32,26-35,No,Travel_Rarely,588,Sales,8,2,Technical Degree,3,4,0,13,2,3,13,12,11,9
+RM323,32,26-35,No,Travel_Rarely,1018,Research & Development,2,4,Medical,3,3,0,10,0,2,7,7,0,7
+RM352,32,26-35,No,Travel_Rarely,1062,Research & Development,2,3,Medical,3,3,1,8,4,3,8,0,0,7
+RM470,32,26-35,Yes,Non-Travel,1474,Sales,11,4,Other,3,4,0,6,2,3,4,2,1,2
+RM501,32,26-35,No,Travel_Rarely,646,Research & Development,9,4,Life Sciences,3,4,1,6,2,2,6,4,0,5
+RM528,32,26-35,No,Travel_Rarely,929,Sales,10,3,Marketing,3,4,0,10,2,2,10,7,0,8
+RM532,32,26-35,No,Travel_Rarely,1018,Research & Development,3,2,Life Sciences,3,4,0,10,6,3,7,7,7,7
+RM559,32,26-35,No,Travel_Frequently,430,Research & Development,24,4,Life Sciences,3,4,2,10,2,3,10,8,4,7
+RM601,32,26-35,No,Travel_Rarely,859,Research & Development,4,3,Life Sciences,3,3,1,14,3,3,14,13,6,8
+RM623,32,26-35,No,Travel_Rarely,117,Sales,13,4,Life Sciences,3,3,1,8,3,2,5,2,0,3
+RM627,32,26-35,No,Travel_Rarely,638,Research & Development,8,2,Medical,3,3,1,9,3,2,5,3,1,3
+RM638,32,26-35,No,Non-Travel,300,Research & Development,1,3,Life Sciences,3,2,1,4,2,3,3,0,0,2
+RM642,32,26-35,No,Travel_Frequently,379,Sales,5,2,Life Sciences,3,4,1,10,3,3,10,8,5,3
+RM657,32,26-35,Yes,Travel_Rarely,374,Research & Development,25,4,Life Sciences,4,3,0,1,2,1,1,0,0,1
+RM683,32,26-35,No,Non-Travel,1184,Research & Development,1,3,Life Sciences,4,3,0,5,3,3,3,0,0,2
+RM693,32,26-35,No,Travel_Rarely,498,Research & Development,3,4,Medical,3,3,1,8,2,4,8,7,6,3
+RM757,32,26-35,No,Non-Travel,1109,Research & Development,29,4,Medical,3,2,0,10,2,3,8,7,7,7
+RM851,32,26-35,No,Non-Travel,862,Sales,2,1,Life Sciences,3,3,3,1,3,3,1,0,0,0
+RM881,32,26-35,No,Travel_Frequently,116,Research & Development,13,3,Other,4,3,1,2,2,3,2,2,2,2
+RM882,32,26-35,No,Travel_Frequently,1316,Research & Development,2,2,Life Sciences,3,4,0,10,2,3,8,7,0,7
+RM936,32,26-35,No,Travel_Rarely,604,Sales,8,3,Medical,3,3,2,10,4,4,10,7,0,8
+RM940,32,26-35,Yes,Travel_Rarely,1089,Research & Development,7,2,Life Sciences,3,1,1,10,3,3,10,4,1,1
+RM992,32,26-35,No,Travel_Rarely,499,Sales,2,1,Marketing,3,1,3,4,3,2,3,2,1,2
+RM1027,32,26-35,No,Travel_Rarely,601,Sales,7,5,Marketing,3,3,1,7,3,2,4,3,0,3
+RM1076,32,26-35,No,Travel_Rarely,495,Research & Development,10,3,Medical,4,2,0,10,5,4,5,2,0,0
+RM1102,32,26-35,No,Travel_Rarely,824,Research & Development,5,2,Life Sciences,3,1,1,12,2,3,7,1,2,5
+RM1114,32,26-35,No,Non-Travel,1200,Research & Development,1,4,Technical Degree,3,2,1,9,3,2,6,5,1,2
+RM1140,32,26-35,No,Travel_Rarely,634,Research & Development,5,4,Other,3,4,2,6,3,3,3,2,0,2
+RM1191,32,26-35,No,Travel_Rarely,977,Research & Development,2,3,Medical,3,3,2,10,4,2,9,5,1,6
+RM1206,32,26-35,Yes,Travel_Rarely,1259,Research & Development,2,4,Life Sciences,3,1,0,1,2,3,1,0,0,0
+RM1227,32,26-35,No,Travel_Frequently,585,Research & Development,10,3,Life Sciences,3,1,1,10,3,2,5,2,1,3
+RM1238,32,26-35,Yes,Travel_Rarely,964,Sales,1,2,Life Sciences,3,2,0,10,2,3,0,0,0,0
+RM1242,32,26-35,No,Travel_Rarely,371,Sales,19,3,Life Sciences,3,3,1,10,2,1,4,3,0,2
+RM1261,32,26-35,No,Non-Travel,953,Research & Development,5,4,Technical Degree,3,2,0,12,3,3,7,7,0,7
+RM1320,32,26-35,No,Travel_Frequently,1318,Sales,10,4,Marketing,3,3,0,4,2,4,0,0,0,0
+RM1327,32,26-35,Yes,Travel_Rarely,414,Sales,2,4,Marketing,3,3,0,7,3,2,2,2,2,2
+RM1376,32,26-35,Yes,Travel_Frequently,238,Research & Development,5,2,Life Sciences,3,1,0,8,2,3,4,1,0,3
+RM1389,32,26-35,No,Non-Travel,1146,Research & Development,15,4,Medical,3,2,1,9,6,3,5,1,1,2
+RM1395,32,26-35,No,Travel_Rarely,1373,Research & Development,5,4,Life Sciences,4,2,0,8,1,3,1,0,0,0
+RM1427,32,26-35,No,Travel_Rarely,267,Research & Development,29,4,Life Sciences,3,3,0,6,3,3,6,2,4,1
+RM1429,32,26-35,No,Travel_Rarely,234,Sales,1,4,Medical,3,2,1,3,2,3,2,2,2,2
+RM1432,32,26-35,No,Travel_Rarely,801,Sales,1,4,Marketing,3,3,2,14,3,3,14,10,5,7
+RM1450,32,26-35,No,Travel_Rarely,529,Research & Development,2,3,Technical Degree,3,4,0,4,4,3,4,2,1,2
+RM004,33,26-35,No,Travel_Frequently,1392,Research & Development,3,4,Life Sciences,3,3,0,8,3,3,8,7,3,0
+RM031,33,26-35,No,Travel_Rarely,924,Research & Development,2,3,Medical,3,4,0,7,3,3,1,1,0,null
+RM040,33,26-35,No,Travel_Frequently,1141,Sales,1,3,Life Sciences,3,1,2,10,3,3,5,3,1,3
+RM056,33,26-35,No,Travel_Frequently,515,Research & Development,1,2,Life Sciences,3,3,0,15,1,3,15,14,8,12
+RM122,33,26-35,No,Non-Travel,750,Sales,22,2,Marketing,3,1,1,8,2,4,7,7,0,7
+RM177,33,26-35,No,Travel_Rarely,134,Research & Development,2,3,Life Sciences,3,1,0,4,2,4,3,1,0,2
+RM186,33,26-35,No,Travel_Rarely,931,Research & Development,14,3,Medical,3,4,1,8,5,3,8,7,1,6
+RM222,33,26-35,No,Travel_Rarely,147,Research & Development,4,4,Medical,4,4,0,7,3,3,3,2,1,1
+RM235,33,26-35,Yes,Travel_Rarely,813,Research & Development,14,3,Medical,3,3,1,8,2,1,5,4,0,4
+RM237,33,26-35,Yes,Travel_Rarely,465,Research & Development,2,2,Life Sciences,4,1,0,13,3,4,9,7,1,7
+RM247,33,26-35,No,Travel_Rarely,832,Research & Development,5,4,Life Sciences,3,3,1,2,2,2,2,2,0,2
+RM314,33,26-35,No,Travel_Frequently,553,Research & Development,5,4,Life Sciences,3,2,2,12,2,3,10,6,8,8
+RM329,33,26-35,No,Travel_Frequently,508,Sales,10,3,Marketing,3,3,0,9,6,2,7,7,0,1
+RM364,33,26-35,Yes,Travel_Rarely,350,Sales,5,3,Marketing,3,2,0,1,2,3,1,0,0,0
+RM436,33,26-35,Yes,Travel_Rarely,1277,Research & Development,15,1,Medical,3,4,0,15,2,4,7,6,7,7
+RM437,33,26-35,Yes,Travel_Rarely,587,Research & Development,10,1,Medical,3,1,3,8,2,3,4,3,1,3
+RM456,33,26-35,No,Travel_Rarely,922,Research & Development,1,5,Medical,3,3,1,10,2,3,6,1,0,5
+RM500,33,26-35,No,Travel_Rarely,1216,Sales,8,4,Marketing,3,4,0,6,3,3,5,0,1,2
+RM510,33,26-35,No,Travel_Frequently,1296,Research & Development,6,3,Life Sciences,4,3,1,15,2,1,13,11,4,7
+RM515,33,26-35,Yes,Travel_Frequently,1076,Research & Development,3,3,Life Sciences,3,1,0,10,3,3,10,8,9,7
+RM563,33,26-35,Yes,Travel_Rarely,527,Research & Development,1,4,Other,3,3,0,10,2,2,10,9,7,8
+RM591,33,26-35,No,Travel_Rarely,213,Research & Development,7,3,Medical,3,4,0,14,3,4,13,9,3,7
+RM592,33,26-35,Yes,Travel_Rarely,118,Sales,16,3,Marketing,3,3,0,6,3,3,3,2,0,2
+RM620,33,26-35,No,Travel_Rarely,586,Sales,1,3,Medical,4,1,1,9,5,3,9,8,0,8
+RM656,33,26-35,No,Travel_Rarely,1075,Human Resources,3,2,Human Resources,3,3,1,7,4,4,4,3,0,3
+RM674,33,26-35,No,Travel_Rarely,1198,Research & Development,1,4,Other,3,2,0,6,1,3,3,2,0,2
+RM695,33,26-35,No,Travel_Rarely,1069,Research & Development,1,3,Life Sciences,3,1,0,6,3,3,5,0,1,4
+RM711,33,26-35,No,Non-Travel,722,Sales,17,3,Life Sciences,3,4,0,10,2,3,10,8,6,0
+RM713,33,26-35,No,Travel_Rarely,461,Research & Development,13,1,Life Sciences,3,1,0,5,4,3,3,2,0,2
+RM716,33,26-35,No,Travel_Frequently,827,Research & Development,1,4,Other,3,1,1,6,2,3,6,5,1,2
+RM755,33,26-35,No,Non-Travel,1038,Sales,8,1,Life Sciences,3,4,0,3,2,2,2,2,2,2
+RM791,33,26-35,No,Travel_Rarely,654,Research & Development,5,3,Life Sciences,3,3,1,9,2,3,3,2,1,2
+RM793,33,26-35,Yes,Travel_Frequently,827,Research & Development,29,4,Medical,4,2,0,14,4,3,13,7,3,8
+RM799,33,26-35,Yes,Travel_Rarely,1017,Research & Development,25,3,Medical,4,2,0,5,0,3,2,2,2,2
+RM803,33,26-35,No,Travel_Frequently,970,Sales,7,3,Life Sciences,3,3,1,4,3,3,3,2,0,2
+RM830,33,26-35,Yes,Travel_Rarely,603,Sales,9,4,Marketing,3,1,0,6,3,3,5,2,0,3
+RM864,33,26-35,No,Travel_Rarely,147,Human Resources,2,3,Human Resources,3,4,1,5,2,3,5,4,1,4
+RM873,33,26-35,No,Travel_Frequently,1146,Sales,25,3,Medical,3,1,1,10,3,2,10,7,0,1
+RM884,33,26-35,No,Travel_Rarely,117,Research & Development,9,3,Medical,3,2,1,15,5,3,14,10,4,10
+RM909,33,26-35,No,Travel_Rarely,536,Sales,10,5,Marketing,3,4,2,10,3,3,9,8,0,8
+RM991,33,26-35,No,Travel_Frequently,1111,Sales,5,1,Life Sciences,3,1,0,8,2,4,5,4,1,2
+RM1048,33,26-35,No,Travel_Frequently,430,Sales,7,3,Medical,3,1,2,5,2,3,4,3,0,3
+RM1067,33,26-35,No,Travel_Rarely,1099,Research & Development,4,4,Medical,3,4,0,8,5,3,5,4,0,2
+RM1075,33,26-35,No,Travel_Rarely,516,Research & Development,8,5,Life Sciences,3,1,0,14,6,3,0,0,0,0
+RM1092,33,26-35,No,Travel_Rarely,575,Research & Development,25,3,Life Sciences,3,4,0,5,2,3,5,3,0,2
+RM1096,33,26-35,No,Travel_Rarely,589,Research & Development,28,4,Life Sciences,3,2,1,15,3,3,15,14,5,7
+RM1106,33,26-35,No,Travel_Rarely,1242,Sales,8,4,Life Sciences,3,4,1,8,6,1,2,2,2,2
+RM1190,33,26-35,No,Travel_Rarely,392,Sales,2,4,Medical,3,3,2,6,5,3,6,2,0,4
+RM1199,33,26-35,No,Non-Travel,530,Sales,16,3,Life Sciences,4,3,1,7,2,3,6,5,1,2
+RM1211,33,26-35,No,Travel_Rarely,267,Research & Development,21,3,Medical,3,4,3,14,6,3,14,11,2,13
+RM1254,33,26-35,No,Non-Travel,1283,Sales,2,3,Marketing,3,4,0,13,2,2,11,7,1,7
+RM1256,33,26-35,Yes,Travel_Rarely,211,Sales,16,3,Life Sciences,4,3,0,11,2,2,0,0,0,0
+RM1266,33,26-35,No,Non-Travel,775,Research & Development,4,3,Technical Degree,3,4,2,11,2,2,9,8,1,7
+RM1283,33,26-35,No,Travel_Rarely,867,Research & Development,8,4,Life Sciences,3,2,1,14,1,3,10,8,7,6
+RM1364,33,26-35,No,Travel_Rarely,217,Sales,10,4,Marketing,3,2,0,10,2,2,10,4,0,9
+RM1399,33,26-35,No,Travel_Frequently,1303,Research & Development,7,2,Life Sciences,4,3,3,9,2,3,9,7,2,8
+RM1416,33,26-35,No,Non-Travel,1313,Research & Development,1,2,Medical,3,3,3,1,2,2,1,1,0,0
+RM1426,33,26-35,No,Travel_Rarely,501,Research & Development,15,2,Medical,3,1,1,10,6,3,9,7,8,1
+RM014,34,26-35,No,TravelRarely,1346,Research & Development,19,2,Medical,3,3,1,3,2,3,2,2,1,2
+RM023,34,26-35,No,TravelRarely,419,Research & Development,7,4,Life Sciences,3,3,0,13,4,3,12,6,2,null
+RM025,34,26-35,Yes,Travel_Rarely,699,Research & Development,6,1,Medical,3,3,0,8,2,3,4,2,1,null
+RM047,34,26-35,No,Non-Travel,1065,Sales,23,4,Marketing,4,3,0,10,2,3,9,5,8,7
+RM085,34,26-35,No,Travel_Rarely,1153,Research & Development,1,2,Medical,3,3,0,5,2,3,5,2,1,3
+RM104,34,26-35,No,Travel_Rarely,665,Research & Development,6,4,Other,3,3,0,16,3,3,16,13,2,10
+RM112,34,26-35,Yes,Travel_Frequently,658,Research & Development,7,3,Life Sciences,4,4,0,9,3,3,9,7,0,6
+RM115,34,26-35,No,Travel_Rarely,1031,Research & Development,6,4,Life Sciences,3,3,1,12,3,3,1,0,0,0
+RM117,34,26-35,No,Travel_Rarely,1354,Research & Development,5,3,Medical,3,4,0,14,6,3,11,10,5,8
+RM160,34,26-35,No,Travel_Frequently,303,Sales,2,4,Marketing,3,4,1,6,3,3,4,3,1,2
+RM182,34,26-35,No,Travel_Rarely,629,Research & Development,27,2,Medical,3,4,0,9,3,3,3,2,1,2
+RM189,34,26-35,No,Travel_Frequently,1069,Research & Development,2,1,Life Sciences,3,3,0,10,2,2,10,9,1,9
+RM203,34,26-35,No,Travel_Frequently,878,Research & Development,10,4,Medical,3,4,1,5,4,4,5,3,2,0
+RM248,34,26-35,No,Travel_Rarely,470,Research & Development,2,4,Life Sciences,3,2,1,13,3,3,11,9,5,9
+RM379,34,26-35,Yes,Non-Travel,1362,Sales,19,3,Marketing,3,2,0,9,3,2,5,2,0,4
+RM394,34,26-35,No,Non-Travel,1381,Sales,4,4,Marketing,3,1,1,6,3,3,3,2,1,2
+RM416,34,26-35,Yes,Travel_Frequently,296,Sales,6,2,Marketing,3,4,1,3,3,2,2,2,1,0
+RM433,34,26-35,No,Travel_Rarely,1303,Research & Development,2,4,Life Sciences,3,3,1,14,3,3,7,3,5,7
+RM441,34,26-35,Yes,Travel_Frequently,988,Human Resources,23,3,Human Resources,3,3,3,11,2,3,3,2,0,2
+RM463,34,26-35,No,Travel_Rarely,258,Sales,21,4,Life Sciences,3,4,0,10,3,3,10,7,5,7
+RM482,34,26-35,No,Travel_Rarely,254,Research & Development,1,2,Life Sciences,3,4,1,6,3,3,6,5,1,3
+RM495,34,26-35,No,Travel_Rarely,204,Sales,14,3,Technical Degree,3,4,2,8,3,3,8,2,0,6
+RM504,34,26-35,No,Travel_Rarely,1397,Research & Development,1,5,Life Sciences,3,4,1,10,4,2,10,9,8,8
+RM525,34,26-35,No,Travel_Rarely,1442,Research & Development,9,3,Medical,3,2,0,9,3,4,8,7,7,7
+RM550,34,26-35,No,Travel_Rarely,970,Research & Development,8,2,Medical,3,4,0,10,2,3,5,1,4,3
+RM561,34,26-35,No,Travel_Rarely,167,Research & Development,8,5,Life Sciences,3,3,1,7,3,3,0,0,0,0
+RM568,34,26-35,No,Travel_Rarely,304,Sales,2,3,Other,4,3,0,6,5,3,6,5,1,4
+RM575,34,26-35,No,Travel_Rarely,182,Research & Development,1,4,Life Sciences,3,3,0,10,2,3,4,2,1,3
+RM580,34,26-35,No,Travel_Rarely,121,Research & Development,2,4,Medical,3,3,0,6,3,3,6,5,1,3
+RM584,34,26-35,No,Travel_Rarely,1111,Sales,8,2,Life Sciences,3,2,1,6,1,3,3,2,1,2
+RM607,34,26-35,No,Travel_Frequently,702,Research & Development,16,4,Life Sciences,3,3,0,6,3,3,5,2,1,3
+RM614,34,26-35,No,Travel_Rarely,829,Human Resources,3,2,Human Resources,3,3,1,4,1,1,3,2,0,2
+RM672,34,26-35,No,Travel_Rarely,546,Research & Development,10,3,Life Sciences,3,2,2,1,3,3,1,0,1,0
+RM758,34,26-35,No,Travel_Rarely,216,Sales,1,4,Marketing,3,4,1,16,2,2,15,1,0,9
+RM764,34,26-35,No,Travel_Rarely,1333,Sales,10,4,Life Sciences,3,4,1,1,2,3,1,1,0,0
+RM795,34,26-35,No,Travel_Frequently,618,Research & Development,3,1,Life Sciences,3,3,0,7,1,2,6,2,0,4
+RM804,34,26-35,No,Non-Travel,697,Research & Development,3,4,Life Sciences,3,4,3,6,2,3,0,0,0,0
+RM823,34,26-35,No,Travel_Frequently,1003,Research & Development,2,2,Life Sciences,3,4,0,5,3,2,3,2,0,2
+RM835,34,26-35,No,Travel_Rarely,1400,Sales,9,1,Life Sciences,4,1,0,6,3,2,6,5,1,3
+RM848,34,26-35,No,Travel_Frequently,669,Research & Development,1,3,Medical,4,3,0,14,3,3,13,9,4,9
+RM907,34,26-35,No,Travel_Rarely,1320,Research & Development,20,3,Technical Degree,3,4,0,2,5,2,1,0,0,0
+RM918,34,26-35,No,Travel_Rarely,131,Sales,2,3,Marketing,3,4,0,4,3,3,3,2,0,2
+RM921,34,26-35,No,Travel_Frequently,135,Research & Development,19,3,Medical,3,3,2,15,2,4,11,8,5,10
+RM924,34,26-35,No,Travel_Frequently,648,Human Resources,11,3,Life Sciences,3,4,2,14,5,4,10,9,1,8
+RM959,34,26-35,No,Travel_Rarely,943,Research & Development,9,3,Life Sciences,3,4,1,10,0,2,9,7,1,6
+RM965,34,26-35,No,Travel_Rarely,507,Sales,15,2,Medical,3,4,0,10,6,4,10,8,9,6
+RM978,34,26-35,No,Non-Travel,999,Research & Development,26,1,Technical Degree,4,3,3,5,2,3,5,4,0,0
+RM980,34,26-35,No,Travel_Rarely,285,Research & Development,29,3,Medical,3,1,2,10,1,3,8,7,7,7
+RM984,34,26-35,No,Travel_Rarely,404,Research & Development,2,4,Technical Degree,3,4,0,14,2,4,14,11,4,11
+RM1016,34,26-35,No,Travel_Frequently,560,Research & Development,1,4,Other,3,3,2,10,2,3,4,3,1,3
+RM1028,34,26-35,No,Travel_Rarely,401,Research & Development,1,3,Life Sciences,3,1,1,7,2,2,5,4,0,2
+RM1040,34,26-35,Yes,Travel_Rarely,1107,Human Resources,9,4,Technical Degree,3,4,0,2,0,3,2,2,2,2
+RM1049,34,26-35,No,Travel_Rarely,1326,Sales,3,3,Other,3,4,0,15,2,3,13,9,3,12
+RM1056,34,26-35,No,Travel_Frequently,829,Research & Development,15,3,Medical,3,4,2,16,3,2,14,8,6,9
+RM1059,34,26-35,Yes,Travel_Rarely,790,Sales,24,4,Medical,4,3,0,16,2,4,15,9,10,10
+RM1085,34,26-35,No,Travel_Rarely,971,Sales,1,3,Technical Degree,3,4,0,10,3,3,10,9,8,6
+RM1088,34,26-35,No,Travel_Rarely,1440,Sales,7,2,Technical Degree,4,2,1,12,4,3,11,10,5,7
+RM1116,34,26-35,No,Travel_Rarely,479,Research & Development,7,4,Medical,3,3,0,1,4,1,1,0,0,0
+RM1118,34,26-35,No,Travel_Rarely,1351,Research & Development,1,4,Life Sciences,3,2,1,9,3,2,2,2,2,1
+RM1132,34,26-35,No,Travel_Frequently,653,Research & Development,10,4,Technical Degree,3,2,1,8,3,2,8,2,7,7
+RM1147,34,26-35,No,Travel_Frequently,426,Research & Development,10,4,Life Sciences,3,1,1,9,3,3,9,7,7,2
+RM1180,34,26-35,No,Travel_Rarely,1130,Research & Development,3,3,Life Sciences,3,3,1,11,2,3,11,8,7,9
+RM1209,34,26-35,No,Travel_Rarely,1157,Research & Development,5,2,Medical,3,3,1,15,3,4,15,10,4,13
+RM1213,34,26-35,No,Travel_Rarely,678,Research & Development,19,3,Life Sciences,3,2,0,10,3,3,10,9,8,7
+RM1253,34,26-35,No,Travel_Rarely,181,Research & Development,2,4,Medical,3,1,3,6,3,3,5,0,1,2
+RM1268,34,26-35,No,Non-Travel,1375,Sales,10,3,Life Sciences,3,3,1,15,3,3,15,14,0,7
+RM1271,34,26-35,No,Travel_Rarely,511,Sales,3,2,Life Sciences,3,1,0,6,3,3,2,2,2,2
+RM1291,34,26-35,Yes,Travel_Frequently,234,Research & Development,9,4,Life Sciences,3,3,1,11,3,2,7,1,0,7
+RM1301,34,26-35,No,Travel_Rarely,810,Sales,8,2,Technical Degree,4,3,2,10,5,3,10,8,4,8
+RM1343,34,26-35,No,Travel_Rarely,1480,Sales,4,3,Life Sciences,3,4,3,9,3,3,5,3,1,0
+RM1354,34,26-35,Yes,Non-Travel,967,Research & Development,16,4,Technical Degree,4,2,1,5,2,3,5,2,3,0
+RM1360,34,26-35,No,Travel_Rarely,735,Sales,3,1,Medical,3,3,0,9,3,2,4,2,0,1
+RM1369,34,26-35,No,Travel_Frequently,735,Research & Development,22,4,Other,3,2,0,16,3,3,15,10,6,11
+RM1385,34,26-35,No,Travel_Rarely,937,Sales,1,3,Marketing,4,1,0,14,3,2,14,8,2,1
+RM1386,34,26-35,No,Travel_Rarely,1239,Sales,13,4,Medical,3,3,1,9,2,2,8,7,1,1
+RM1447,34,26-35,No,Travel_Rarely,704,Sales,28,3,Marketing,4,4,2,8,2,3,8,7,1,7
+RM1470,34,26-35,No,TravelRarely,628,Research & Development,8,3,Medical,3,1,0,6,3,4,4,3,1,2
+RM1470,34,26-35,No,TravelRarely,628,Research & Development,8,3,Medical,3,1,0,6,3,4,4,3,1,2
+RM011,35,26-35,No,Travel_Rarely,809,Research & Development,16,3,Medical,3,3,1,6,5,3,5,4,0,3
+RM038,35,26-35,No,Travel_Rarely,890,Sales,2,3,Marketing,3,1,0,2,3,3,2,2,2,2
+RM041,35,26-35,No,Travel_Rarely,464,Research & Development,4,2,Other,3,3,1,1,3,3,1,0,0,0
+RM050,35,26-35,No,Travel_Rarely,1229,Research & Development,8,1,Life Sciences,3,4,0,1,2,3,1,0,0,1
+RM054,35,26-35,No,Non-Travel,1097,Research & Development,11,2,Medical,3,3,1,10,3,3,4,0,2,3
+RM057,35,26-35,No,Travel_Frequently,853,Sales,18,5,Life Sciences,4,4,1,9,3,2,9,8,1,8
+RM058,35,26-35,No,Travel_Rarely,1142,Research & Development,23,4,Medical,3,3,1,4,3,3,2,2,2,2
+RM069,35,26-35,No,Travel_Frequently,664,Research & Development,1,3,Medical,3,4,1,5,2,2,3,2,1,2
+RM077,35,26-35,No,Travel_Rarely,776,Sales,1,4,Marketing,3,2,0,16,2,3,15,13,2,null
+RM082,35,26-35,No,Travel_Rarely,1214,Research & Development,1,3,Medical,3,1,0,6,3,3,6,4,0,4
+RM152,35,26-35,No,Travel_Rarely,662,Sales,1,5,Marketing,3,1,2,10,3,3,10,8,0,6
+RM193,35,26-35,Yes,Travel_Rarely,556,Research & Development,23,2,Life Sciences,3,1,0,8,1,3,1,0,0,1
+RM197,35,26-35,No,Travel_Frequently,138,Research & Development,2,3,Medical,3,4,0,10,5,3,6,2,1,2
+RM229,35,26-35,No,Travel_Frequently,944,Sales,1,3,Marketing,3,1,0,10,3,4,10,7,0,8
+RM277,35,26-35,No,Travel_Rarely,1315,Research & Development,22,3,Life Sciences,3,2,1,10,6,2,7,7,6,2
+RM298,35,26-35,No,Travel_Rarely,1232,Sales,16,3,Marketing,3,3,2,12,3,2,11,9,6,9
+RM345,35,26-35,No,Travel_Rarely,1296,Research & Development,5,4,Technical Degree,3,4,0,17,5,3,16,6,0,13
+RM373,35,26-35,No,Travel_Rarely,755,Research & Development,9,4,Life Sciences,3,3,0,10,5,3,1,1,0,0
+RM431,35,26-35,No,Travel_Rarely,144,Research & Development,22,3,Life Sciences,3,3,0,6,2,3,5,4,4,3
+RM439,35,26-35,No,Travel_Rarely,1276,Research & Development,16,3,Life Sciences,3,3,0,10,2,3,8,7,0,0
+RM448,35,26-35,No,Travel_Rarely,619,Sales,1,3,Marketing,3,3,0,15,2,3,11,9,6,9
+RM462,35,26-35,No,Travel_Rarely,195,Sales,1,3,Medical,3,4,0,5,3,3,5,4,0,3
+RM484,35,26-35,No,Travel_Rarely,538,Research & Development,25,2,Other,3,4,0,9,3,3,3,2,0,2
+RM509,35,26-35,No,Travel_Rarely,1017,Research & Development,6,4,Life Sciences,3,2,0,17,3,3,17,11,11,8
+RM516,35,26-35,No,Non-Travel,727,Research & Development,3,3,Life Sciences,3,3,2,1,3,3,1,0,0,0
+RM558,35,26-35,No,Non-Travel,1225,Research & Development,2,4,Life Sciences,3,1,1,16,2,4,1,0,0,0
+RM581,35,26-35,No,Travel_Rarely,384,Sales,8,4,Life Sciences,3,2,1,3,1,2,3,2,0,2
+RM597,35,26-35,No,Travel_Rarely,1258,Research & Development,1,4,Life Sciences,3,3,0,7,0,3,2,2,2,2
+RM612,35,26-35,No,Travel_Rarely,950,Research & Development,7,3,Other,4,2,0,17,3,4,8,5,1,6
+RM621,35,26-35,No,Travel_Rarely,1343,Research & Development,27,1,Medical,3,4,0,6,3,2,6,5,1,1
+RM636,35,26-35,No,Travel_Rarely,607,Research & Development,9,3,Life Sciences,4,2,1,17,2,3,17,14,5,15
+RM637,35,26-35,Yes,Travel_Frequently,130,Research & Development,25,4,Life Sciences,3,1,1,10,3,2,10,2,7,8
+RM648,35,26-35,No,Travel_Rarely,672,Research & Development,25,3,Technical Degree,3,1,0,16,2,3,13,10,4,8
+RM677,35,26-35,No,Travel_Rarely,1137,Research & Development,21,1,Life Sciences,4,4,1,10,2,1,10,6,0,7
+RM699,35,26-35,No,Travel_Rarely,1219,Sales,18,3,Medical,3,2,0,5,3,3,5,2,1,0
+RM705,35,26-35,No,Travel_Rarely,882,Sales,3,4,Life Sciences,3,2,1,12,2,3,10,9,0,8
+RM726,35,26-35,Yes,Travel_Rarely,622,Research & Development,14,4,Other,4,4,1,5,2,1,4,2,0,2
+RM730,35,26-35,No,Travel_Rarely,583,Research & Development,25,4,Medical,3,3,1,16,3,2,16,10,10,1
+RM741,35,26-35,No,Travel_Rarely,802,Research & Development,10,3,Other,4,1,1,3,4,2,3,2,1,2
+RM792,35,26-35,Yes,Travel_Rarely,1204,Sales,4,3,Technical Degree,4,1,0,9,2,3,8,7,4,7
+RM821,35,26-35,No,Travel_Frequently,1182,Sales,11,2,Marketing,3,4,1,5,3,3,5,2,0,2
+RM836,35,26-35,No,Travel_Rarely,528,Human Resources,8,4,Technical Degree,3,2,0,6,2,1,5,4,1,4
+RM841,35,26-35,No,Travel_Rarely,982,Research & Development,1,4,Medical,3,2,1,10,2,3,8,0,1,7
+RM847,35,26-35,No,Travel_Rarely,819,Research & Development,2,3,Life Sciences,3,2,1,15,2,4,7,7,6,4
+RM849,35,26-35,No,Travel_Frequently,636,Research & Development,4,4,Other,3,2,1,2,2,4,2,2,2,2
+RM871,35,26-35,No,Travel_Rarely,1361,Sales,17,4,Life Sciences,3,4,3,15,2,3,7,7,1,7
+RM889,35,26-35,No,Non-Travel,1212,Sales,8,2,Marketing,3,2,1,16,6,2,13,2,4,12
+RM925,35,26-35,No,Travel_Rarely,735,Research & Development,6,1,Life Sciences,3,4,0,4,3,3,3,2,2,2
+RM962,35,26-35,No,Travel_Frequently,482,Research & Development,4,4,Life Sciences,3,2,0,9,3,3,9,6,1,1
+RM974,35,26-35,No,Travel_Rarely,817,Research & Development,1,3,Medical,3,2,1,10,0,3,9,7,0,0
+RM982,35,26-35,Yes,Travel_Frequently,662,Sales,18,4,Marketing,3,3,1,5,0,2,4,2,3,2
+RM1003,35,26-35,No,Travel_Frequently,200,Research & Development,18,2,Life Sciences,3,3,0,10,2,3,2,2,2,2
+RM1060,35,26-35,No,Travel_Rarely,660,Sales,7,1,Life Sciences,3,1,1,1,3,3,1,0,0,0
+RM1082,35,26-35,No,Travel_Rarely,1029,Research & Development,16,3,Life Sciences,3,4,0,11,3,1,11,8,3,3
+RM1101,35,26-35,No,Travel_Rarely,1402,Sales,28,4,Life Sciences,4,1,2,6,5,3,5,3,4,2
+RM1109,35,26-35,No,Travel_Rarely,992,Research & Development,1,3,Medical,3,2,0,3,3,3,3,0,1,2
+RM1111,35,26-35,Yes,Travel_Rarely,104,Research & Development,2,3,Life Sciences,3,4,1,1,2,3,1,0,0,0
+RM1124,35,26-35,No,Travel_Rarely,670,Research & Development,10,4,Medical,3,3,0,10,4,3,5,2,0,4
+RM1131,35,26-35,No,Travel_Rarely,750,Research & Development,28,3,Life Sciences,3,4,2,10,3,2,10,9,6,8
+RM1135,35,26-35,No,Travel_Rarely,1349,Research & Development,7,2,Life Sciences,3,4,1,1,5,2,1,0,0,1
+RM1151,35,26-35,No,Travel_Rarely,819,Research & Development,18,5,Life Sciences,3,4,0,16,2,3,16,15,1,10
+RM1158,35,26-35,No,Non-Travel,208,Research & Development,8,4,Life Sciences,3,4,1,15,5,3,14,11,2,9
+RM1163,35,26-35,Yes,Travel_Rarely,737,Sales,10,3,Medical,3,3,0,15,3,3,13,12,6,0
+RM1168,35,26-35,Yes,Travel_Rarely,763,Sales,15,2,Medical,3,4,2,7,2,2,2,2,2,2
+RM1187,35,26-35,Yes,Travel_Frequently,880,Sales,12,4,Other,4,1,0,13,2,4,11,9,6,7
+RM1216,35,26-35,No,Travel_Frequently,146,Research & Development,2,4,Medical,3,3,0,6,2,4,5,4,1,4
+RM1233,35,26-35,No,Travel_Rarely,1370,Research & Development,27,4,Life Sciences,3,2,1,17,3,3,7,7,0,7
+RM1282,35,26-35,Yes,Travel_Rarely,303,Sales,27,3,Life Sciences,3,4,0,10,2,3,10,7,7,7
+RM1289,35,26-35,No,Non-Travel,1180,Research & Development,2,2,Medical,3,3,1,15,6,3,7,7,1,7
+RM1303,35,26-35,No,Travel_Rarely,185,Research & Development,23,4,Medical,3,2,1,6,2,4,5,4,0,3
+RM1346,35,26-35,No,Travel_Rarely,219,Research & Development,16,2,Other,3,4,0,4,2,3,3,2,0,2
+RM1381,35,26-35,No,Travel_Rarely,682,Sales,18,4,Medical,3,4,1,6,2,1,5,3,0,4
+RM1393,35,26-35,No,Travel_Rarely,1224,Sales,7,4,Life Sciences,3,4,0,10,2,3,10,8,0,9
+RM1423,35,26-35,No,TravelRarely,1490,Research & Development,11,4,Medical,3,3,1,5,3,3,2,2,2,2
+RM1425,35,26-35,No,Travel_Rarely,1395,Research & Development,9,4,Medical,3,2,0,10,5,3,10,7,0,8
+RM1451,35,26-35,No,Travel_Rarely,1146,Human Resources,26,4,Life Sciences,3,3,0,9,2,3,9,0,1,7
+RM1457,35,26-35,No,Travel_Frequently,1199,Research & Development,18,4,Life Sciences,3,4,2,10,2,4,10,2,0,2
+RM1459,35,26-35,No,Travel_Rarely,287,Research & Development,1,4,Life Sciences,3,4,1,4,5,3,4,3,1,1
+RM010,36,36-45,No,Travel_Rarely,1299,Research & Development,27,3,Medical,3,2,2,17,3,2,7,7,7,7
+RM022,36,36-45,Yes,Travel_Rarely,1218,Sales,9,4,Life Sciences,4,2,0,10,4,3,5,3,0,3
+RM039,36,36-45,No,Travel_Rarely,852,Research & Development,5,4,Life Sciences,3,4,1,6,3,4,1,1,0,0
+RM065,36,36-45,No,Travel_Rarely,1223,Research & Development,8,3,Technical Degree,3,2,3,17,2,3,17,14,12,8
+RM067,36,36-45,No,Travel_Frequently,1195,Research & Development,11,3,Life Sciences,3,3,0,6,3,3,6,5,0,3
+RM070,36,36-45,Yes,Travel_Rarely,318,Research & Development,9,3,Medical,3,1,1,2,0,2,1,0,0,null
+RM075,36,36-45,No,Travel_Rarely,132,Research & Development,6,3,Life Sciences,3,2,0,5,3,3,1,0,0,null
+RM118,36,36-45,No,Travel_Frequently,1467,Sales,11,2,Technical Degree,3,3,1,10,6,3,9,7,2,8
+RM119,36,36-45,No,Travel_Rarely,922,Research & Development,3,2,Life Sciences,4,1,1,7,2,3,1,0,0,0
+RM136,36,36-45,No,Travel_Rarely,216,Research & Development,6,2,Medical,4,4,2,7,0,3,3,2,0,1
+RM173,36,36-45,No,Travel_Frequently,1480,Research & Development,3,2,Medical,3,3,0,13,3,2,8,7,7,2
+RM208,36,36-45,No,Travel_Frequently,635,Research & Development,18,1,Medical,3,1,0,8,2,3,8,1,1,null
+RM221,36,36-45,No,Travel_Rarely,1396,Research & Development,5,2,Life Sciences,3,4,0,16,3,4,13,11,3,7
+RM270,36,36-45,No,Travel_Rarely,1403,Research & Development,6,3,Life Sciences,3,3,1,16,4,3,15,13,10,11
+RM292,36,36-45,No,Travel_Rarely,506,Research & Development,3,3,Technical Degree,3,4,0,10,2,3,8,0,7,7
+RM299,36,36-45,No,Travel_Frequently,566,Research & Development,18,4,Life Sciences,3,4,2,4,2,3,1,0,0,0
+RM306,36,36-45,No,Non-Travel,1105,Research & Development,24,4,Life Sciences,3,3,1,11,3,3,9,8,0,8
+RM359,36,36-45,No,Non-Travel,845,Sales,1,5,Medical,3,2,0,7,6,3,1,0,0,null
+RM360,36,36-45,No,Travel_Frequently,541,Sales,3,4,Medical,3,1,1,16,2,3,13,9,1,null
+RM378,36,36-45,No,Travel_Rarely,329,Research & Development,2,3,Life Sciences,3,2,1,6,3,3,2,2,2,2
+RM385,36,36-45,No,Travel_Rarely,164,Sales,2,2,Medical,3,2,2,10,2,3,10,9,9,0
+RM443,36,36-45,No,Non-Travel,635,Sales,10,4,Medical,3,4,0,10,3,2,10,3,9,7
+RM512,36,36-45,No,Travel_Rarely,913,Research & Development,9,2,Medical,3,3,1,13,2,3,3,2,0,2
+RM542,36,36-45,No,Non-Travel,427,Research & Development,8,3,Life Sciences,3,1,1,10,2,3,8,7,0,5
+RM570,36,36-45,No,Non-Travel,1434,Sales,8,4,Life Sciences,3,2,0,10,1,3,10,7,0,9
+RM594,36,36-45,No,Travel_Rarely,676,Research & Development,1,3,Other,3,1,1,10,2,3,9,7,0,5
+RM600,36,36-45,No,Travel_Rarely,1041,Human Resources,13,3,Human Resources,3,2,1,8,2,3,5,2,0,4
+RM622,36,36-45,No,Travel_Rarely,928,Sales,1,2,Life Sciences,3,4,1,18,1,2,18,14,4,11
+RM634,36,36-45,No,Travel_Rarely,1278,Human Resources,8,3,Life Sciences,4,3,0,6,3,3,5,4,0,3
+RM665,36,36-45,No,Travel_Rarely,1425,Research & Development,14,1,Life Sciences,3,1,1,17,2,2,16,8,4,11
+RM681,36,36-45,No,Travel_Rarely,188,Research & Development,7,4,Other,3,3,0,8,6,3,6,2,0,1
+RM688,36,36-45,No,Travel_Rarely,938,Research & Development,2,4,Medical,4,3,0,16,6,3,11,8,3,9
+RM694,36,36-45,Yes,Travel_Rarely,530,Sales,3,1,Life Sciences,3,1,1,16,6,3,16,7,3,7
+RM709,36,36-45,No,Non-Travel,1229,Sales,8,4,Technical Degree,3,4,2,12,3,3,7,7,0,7
+RM753,36,36-45,Yes,Travel_Rarely,885,Research & Development,16,4,Life Sciences,3,3,0,18,1,3,17,13,15,14
+RM762,36,36-45,Yes,Travel_Rarely,660,Research & Development,15,3,Other,3,2,1,9,3,2,1,0,0,0
+RM774,36,36-45,No,Travel_Rarely,796,Research & Development,12,5,Medical,3,2,0,15,2,2,14,8,7,8
+RM818,36,36-45,No,Non-Travel,217,Research & Development,18,4,Life Sciences,4,1,0,18,0,3,11,9,0,9
+RM874,36,36-45,No,Travel_Rarely,917,Research & Development,6,4,Life Sciences,3,3,1,7,4,3,7,7,1,7
+RM883,36,36-45,No,Travel_Rarely,363,Research & Development,1,3,Technical Degree,4,3,1,17,2,3,7,7,7,7
+RM901,36,36-45,No,Travel_Frequently,469,Research & Development,3,3,Technical Degree,3,3,0,12,2,2,11,10,0,7
+RM928,36,36-45,No,Travel_Rarely,429,Research & Development,2,4,Life Sciences,3,4,0,18,2,3,16,14,5,12
+RM943,36,36-45,No,Travel_Rarely,325,Research & Development,10,4,Technical Degree,3,1,0,10,0,3,7,7,1,7
+RM969,36,36-45,No,Travel_Frequently,607,Sales,7,3,Marketing,3,4,1,17,2,2,15,7,6,13
+RM1012,36,36-45,No,Travel_Rarely,1174,Sales,3,4,Marketing,3,4,0,15,3,3,5,4,0,1
+RM1019,36,36-45,No,Travel_Rarely,172,Research & Development,4,4,Life Sciences,3,3,0,10,2,2,10,4,1,8
+RM1020,36,36-45,No,Travel_Rarely,329,Sales,16,4,Marketing,3,1,2,11,3,2,3,2,0,2
+RM1103,36,36-45,No,Travel_Rarely,1157,Sales,2,4,Life Sciences,4,4,0,7,3,2,3,2,1,2
+RM1122,36,36-45,No,Travel_Rarely,884,Sales,1,4,Life Sciences,3,1,0,15,5,3,1,0,0,0
+RM1129,36,36-45,No,Travel_Frequently,1302,Research & Development,6,4,Life Sciences,3,4,1,9,3,3,3,2,0,2
+RM1146,36,36-45,No,Travel_Rarely,559,Research & Development,12,4,Life Sciences,3,2,2,7,2,3,3,2,1,1
+RM1174,36,36-45,No,Travel_Rarely,711,Research & Development,5,4,Life Sciences,3,3,2,9,6,3,3,2,0,2
+RM1181,36,36-45,No,Travel_Rarely,311,Research & Development,7,3,Life Sciences,3,3,0,15,4,3,4,3,1,3
+RM1183,36,36-45,No,Non-Travel,894,Research & Development,1,4,Medical,3,3,0,4,6,3,3,2,1,2
+RM1184,36,36-45,No,Travel_Rarely,1040,Research & Development,3,2,Life Sciences,4,1,1,13,3,3,5,4,0,4
+RM1200,36,36-45,No,Travel_Rarely,1351,Research & Development,26,4,Life Sciences,3,2,2,10,2,2,3,2,0,2
+RM1221,36,36-45,No,Travel_Rarely,530,Sales,2,4,Life Sciences,3,3,0,17,2,2,13,7,6,7
+RM1237,36,36-45,Yes,Travel_Rarely,1456,Sales,13,5,Marketing,3,2,3,16,3,3,2,2,2,2
+RM1279,36,36-45,No,Travel_Rarely,1383,Research & Development,10,3,Life Sciences,3,4,1,15,1,3,12,8,5,7
+RM1316,36,36-45,No,Travel_Rarely,430,Research & Development,2,4,Other,4,4,1,15,2,3,1,0,0,0
+RM1341,36,36-45,No,Travel_Rarely,1266,Sales,10,4,Technical Degree,3,1,1,10,4,3,10,9,1,7
+RM1348,36,36-45,No,Travel_Frequently,1213,Human Resources,2,1,Human Resources,4,4,0,10,2,2,10,1,0,8
+RM1356,36,36-45,No,Travel_Rarely,335,Sales,17,2,Marketing,3,3,2,12,1,1,4,2,1,3
+RM1384,36,36-45,No,Non-Travel,1351,Research & Development,9,4,Life Sciences,4,2,0,5,3,3,5,4,0,2
+RM1440,36,36-45,No,Travel_Rarely,557,Sales,3,3,Medical,3,3,2,10,2,3,9,7,3,4
+RM1441,36,36-45,No,Travel_Frequently,688,Research & Development,4,2,Life Sciences,3,2,3,18,3,3,4,2,0,2
+RM1448,36,36-45,No,Non-Travel,301,Sales,15,4,Marketing,4,1,1,15,4,2,15,12,11,11
+RM1454,36,36-45,No,Travel_Rarely,1120,Sales,11,4,Marketing,3,1,1,8,2,2,6,3,0,0
+RM1466,36,36-45,No,Travel_Frequently,884,Research & Development,23,2,Medical,3,3,1,17,3,3,5,2,0,3
+RM1466,36,36-45,No,Travel_Frequently,884,Research & Development,23,2,Medical,3,3,1,17,3,3,5,2,0,2
+RM003,37,36-45,Yes,Travel_Rarely,1373,Research & Development,2,2,Other,3,2,0,7,3,3,0,0,0,0
+RM048,37,36-45,No,Travel_Rarely,408,Research & Development,19,2,Life Sciences,4,1,0,8,1,3,1,0,0,0
+RM060,37,36-45,No,Travel_Rarely,1115,Research & Development,1,4,Life Sciences,3,3,1,7,2,4,7,5,0,7
+RM079,37,36-45,No,Travel_Rarely,397,Research & Development,7,4,Medical,3,1,0,16,3,4,5,2,0,2
+RM101,37,36-45,Yes,Travel_Rarely,807,Human Resources,6,4,Human Resources,4,4,0,7,3,3,3,2,0,2
+RM105,37,36-45,No,Non-Travel,1040,Research & Development,2,2,Life Sciences,3,4,1,17,2,4,1,0,0,0
+RM116,37,36-45,No,Travel_Rarely,1189,Sales,3,3,Life Sciences,3,1,0,12,3,3,5,3,1,3
+RM196,37,36-45,No,Travel_Rarely,290,Research & Development,21,3,Life Sciences,3,1,1,8,3,2,8,7,1,7
+RM223,37,36-45,No,Travel_Frequently,663,Research & Development,11,3,Other,3,3,3,10,1,3,10,8,0,7
+RM227,37,36-45,No,Travel_Frequently,319,Sales,4,4,Marketing,3,3,1,13,2,3,9,8,5,8
+RM249,37,36-45,No,Travel_Rarely,1017,Research & Development,1,2,Medical,3,1,1,17,2,2,3,1,0,null
+RM251,37,36-45,Yes,Travel_Frequently,504,Research & Development,10,3,Medical,3,2,2,17,5,3,1,0,0,null
+RM274,37,36-45,No,Travel_Rarely,228,Sales,6,4,Medical,3,2,1,7,5,4,5,4,0,1
+RM276,37,36-45,No,Non-Travel,728,Research & Development,1,4,Medical,3,1,2,15,2,3,5,2,0,2
+RM286,37,36-45,No,Travel_Rarely,1372,Research & Development,1,3,Life Sciences,3,2,0,17,3,3,17,12,5,7
+RM295,37,36-45,No,Travel_Frequently,889,Research & Development,9,3,Medical,3,3,3,4,3,2,4,2,1,2
+RM341,37,36-45,No,Travel_Rarely,1192,Research & Development,5,2,Medical,3,3,2,8,2,2,6,2,0,4
+RM354,37,36-45,No,Travel_Rarely,1319,Research & Development,6,3,Medical,3,1,2,13,2,3,7,7,6,7
+RM365,37,36-45,No,Travel_Rarely,921,Research & Development,10,3,Medical,4,2,1,17,3,3,5,4,0,3
+RM387,37,36-45,No,Travel_Rarely,1107,Research & Development,14,3,Life Sciences,3,3,1,18,2,2,18,7,12,17
+RM390,37,36-45,No,Travel_Rarely,1305,Research & Development,10,4,Life Sciences,3,4,0,18,2,2,1,0,0,1
+RM399,37,36-45,No,Non-Travel,1063,Research & Development,25,5,Medical,3,1,2,15,2,3,13,11,10,7
+RM465,37,36-45,No,Travel_Rarely,799,Research & Development,1,3,Technical Degree,3,4,0,12,3,4,6,5,1,2
+RM468,37,36-45,No,Non-Travel,142,Sales,9,4,Medical,3,4,1,9,6,3,9,5,7,7
+RM473,37,36-45,No,Travel_Rarely,446,Research & Development,1,4,Life Sciences,3,2,1,8,2,2,6,5,4,3
+RM487,37,36-45,No,Travel_Rarely,558,Sales,2,3,Marketing,3,3,1,17,3,2,3,0,1,0
+RM507,37,36-45,No,Travel_Rarely,482,Research & Development,3,3,Other,3,3,1,10,2,3,10,7,7,8
+RM523,37,36-45,No,Travel_Rarely,1225,Research & Development,10,2,Life Sciences,3,1,0,4,2,3,1,0,0,0
+RM578,37,36-45,No,Travel_Rarely,571,Research & Development,10,1,Life Sciences,3,2,2,6,3,2,5,3,4,3
+RM629,37,36-45,No,Travel_Rarely,342,Sales,16,4,Marketing,3,4,2,9,2,3,1,0,0,0
+RM649,37,36-45,No,Travel_Frequently,1231,Sales,21,2,Medical,3,2,1,10,3,3,5,4,0,0
+RM653,37,36-45,No,Non-Travel,1252,Sales,19,2,Medical,3,4,0,10,2,3,10,0,0,9
+RM696,37,36-45,Yes,Travel_Rarely,625,Sales,1,4,Life Sciences,3,3,0,17,2,1,14,1,11,7
+RM745,37,36-45,Yes,Travel_Rarely,1141,Research & Development,11,2,Medical,3,1,0,15,2,1,1,0,0,0
+RM768,37,36-45,No,Travel_Rarely,124,Research & Development,3,3,Other,3,1,0,8,3,2,4,3,0,1
+RM796,37,36-45,No,Travel_Rarely,309,Sales,10,4,Life Sciences,3,3,3,8,5,3,1,0,0,0
+RM833,37,36-45,No,Travel_Rarely,367,Research & Development,25,2,Medical,3,3,2,9,2,3,6,2,1,3
+RM856,37,36-45,No,Travel_Rarely,977,Research & Development,1,3,Life Sciences,3,2,1,14,2,2,14,8,3,11
+RM990,37,36-45,No,Travel_Rarely,1439,Research & Development,4,1,Life Sciences,3,4,0,8,2,3,6,4,1,3
+RM1002,37,36-45,No,Travel_Rarely,1462,Research & Development,11,3,Medical,3,1,0,8,6,3,3,2,0,2
+RM1023,37,36-45,No,Non-Travel,1413,Research & Development,5,2,Technical Degree,3,1,0,7,2,1,6,5,1,3
+RM1090,37,36-45,No,Travel_Rarely,674,Research & Development,13,3,Medical,3,1,0,10,2,3,10,8,3,7
+RM1159,37,36-45,No,Travel_Rarely,671,Research & Development,19,3,Life Sciences,3,1,3,9,2,2,4,3,0,2
+RM1164,37,36-45,No,Travel_Rarely,1470,Research & Development,10,3,Medical,3,1,1,8,2,1,8,4,7,7
+RM1212,37,36-45,No,Travel_Frequently,1278,Sales,1,4,Medical,3,3,2,6,2,2,6,3,1,3
+RM1277,37,36-45,No,Travel_Rarely,589,Sales,9,2,Marketing,3,1,2,5,2,3,5,2,0,3
+RM1281,37,36-45,No,Travel_Rarely,1239,Human Resources,8,2,Other,3,3,0,19,4,2,10,0,4,7
+RM1292,37,36-45,Yes,Travel_Rarely,370,Research & Development,10,4,Medical,3,2,0,10,4,1,10,3,0,8
+RM1345,37,36-45,No,Travel_Rarely,783,Research & Development,7,4,Medical,4,3,1,16,2,3,5,3,0,4
+RM1433,37,36-45,No,Travel_Rarely,161,Research & Development,10,3,Life Sciences,4,1,1,16,2,3,16,11,6,8
+RM009,38,36-45,No,Travel_Frequently,216,Research & Development,23,3,Life Sciences,4,2,0,10,2,3,9,7,1,null
+RM020,38,36-45,No,Travel_Rarely,371,Research & Development,2,3,Life Sciences,3,3,0,6,3,3,3,2,1,2
+RM062,38,36-45,No,Travel_Frequently,653,Research & Development,29,5,Life Sciences,3,4,0,10,2,3,10,3,9,9
+RM084,38,36-45,No,Non-Travel,573,Research & Development,6,3,Medical,3,4,3,17,3,3,13,11,1,9
+RM143,38,36-45,No,Travel_Rarely,364,Research & Development,3,5,Technical Degree,4,2,0,19,2,3,3,2,2,null
+RM169,38,36-45,No,Travel_Rarely,702,Sales,1,4,Life Sciences,4,3,0,12,2,4,8,3,0,7
+RM180,38,36-45,No,Travel_Rarely,1380,Research & Development,9,2,Life Sciences,3,3,0,2,3,3,2,2,2,1
+RM199,38,36-45,No,Travel_Rarely,1261,Research & Development,2,4,Life Sciences,3,2,0,14,3,3,1,0,0,0
+RM200,38,36-45,No,Travel_Rarely,1084,Research & Development,29,3,Technical Degree,3,1,1,9,3,1,7,7,1,7
+RM205,38,36-45,Yes,Travel_Rarely,1180,Research & Development,29,1,Medical,3,2,0,17,2,3,1,0,0,0
+RM224,38,36-45,No,Travel_Rarely,119,Sales,3,3,Life Sciences,3,3,2,17,6,2,16,10,5,13
+RM262,38,36-45,No,Non-Travel,1327,Sales,2,2,Life Sciences,3,4,1,13,0,3,8,7,7,5
+RM278,38,36-45,No,Travel_Rarely,322,Sales,7,2,Medical,4,3,1,8,3,3,8,0,7,7
+RM288,38,36-45,No,Travel_Rarely,688,Research & Development,23,4,Life Sciences,3,2,1,10,2,3,2,2,1,2
+RM308,38,36-45,No,Travel_Rarely,849,Research & Development,25,2,Life Sciences,3,3,1,19,2,3,10,8,0,1
+RM342,38,36-45,No,Travel_Rarely,343,Research & Development,15,2,Life Sciences,3,2,1,12,3,3,11,10,2,9
+RM417,38,36-45,No,Travel_Frequently,1490,Research & Development,2,2,Life Sciences,4,3,1,1,3,3,1,0,0,0
+RM472,38,36-45,No,Travel_Rarely,1495,Research & Development,10,3,Medical,3,3,1,18,4,3,1,0,0,0
+RM491,38,36-45,No,Travel_Rarely,362,Research & Development,1,1,Life Sciences,3,4,0,8,3,2,0,0,0,0
+RM519,38,36-45,No,Travel_Rarely,243,Sales,7,4,Marketing,4,1,0,8,2,3,7,7,0,5
+RM530,38,36-45,No,Travel_Rarely,827,Research & Development,1,4,Life Sciences,3,3,0,10,4,2,9,7,1,8
+RM543,38,36-45,No,Travel_Rarely,168,Research & Development,1,3,Life Sciences,3,4,0,10,4,4,1,0,0,0
+RM560,38,36-45,No,Travel_Rarely,268,Research & Development,2,5,Medical,3,2,1,6,0,1,1,0,0,1
+RM579,38,36-45,No,Travel_Frequently,240,Research & Development,2,4,Life Sciences,3,4,0,17,2,3,15,7,4,12
+RM606,38,36-45,No,Travel_Frequently,471,Research & Development,12,3,Life Sciences,3,3,1,13,3,2,4,3,1,2
+RM643,38,36-45,No,Travel_Rarely,395,Sales,9,3,Marketing,3,4,1,3,3,3,2,2,1,2
+RM682,38,36-45,No,Travel_Rarely,1333,Research & Development,1,3,Technical Degree,3,2,1,15,3,3,15,12,5,11
+RM704,38,36-45,No,Non-Travel,152,Sales,10,3,Technical Degree,3,2,0,6,1,3,5,3,1,3
+RM723,38,36-45,No,Travel_Frequently,1391,Research & Development,10,1,Medical,3,2,1,3,0,2,2,1,0,2
+RM748,38,36-45,No,Travel_Rarely,1035,Sales,3,4,Life Sciences,3,3,0,19,1,3,1,0,0,0
+RM766,38,36-45,No,Travel_Frequently,1186,Research & Development,3,4,Other,3,1,1,8,2,3,2,2,2,2
+RM785,38,36-45,No,Travel_Rarely,330,Research & Development,17,1,Life Sciences,3,1,1,20,4,2,19,9,1,9
+RM808,38,36-45,No,Travel_Rarely,770,Sales,10,4,Marketing,3,2,2,9,2,3,8,7,2,7
+RM812,38,36-45,No,Travel_Rarely,130,Sales,2,2,Marketing,3,3,0,10,2,3,1,0,0,0
+RM827,38,36-45,No,Travel_Rarely,433,Human Resources,1,3,Human Resources,3,4,1,7,2,4,7,6,5,0
+RM964,38,36-45,No,Travel_Rarely,1009,Sales,2,2,Life Sciences,3,4,1,11,3,3,7,7,1,7
+RM983,38,36-45,No,Travel_Frequently,693,Research & Development,7,3,Life Sciences,3,4,3,4,2,3,4,2,0,3
+RM1108,38,36-45,No,Travel_Frequently,888,Human Resources,10,4,Human Resources,3,3,0,10,2,3,6,3,1,2
+RM1113,38,36-45,Yes,Travel_Rarely,903,Research & Development,2,3,Medical,3,1,2,7,2,3,5,2,1,4
+RM1120,38,36-45,No,Travel_Rarely,1245,Sales,14,3,Life Sciences,3,4,1,10,3,3,9,8,7,7
+RM1121,38,36-45,No,Travel_Rarely,437,Sales,16,3,Life Sciences,3,2,0,8,5,4,3,2,1,2
+RM1162,38,36-45,No,Travel_Rarely,397,Research & Development,2,2,Medical,3,4,1,10,6,4,5,4,0,2
+RM1188,38,36-45,No,Travel_Frequently,1189,Research & Development,1,3,Life Sciences,3,4,2,19,4,4,13,11,2,9
+RM1194,38,36-45,No,Travel_Frequently,148,Research & Development,2,3,Medical,4,2,0,4,3,3,4,3,3,3
+RM1203,38,36-45,No,Travel_Rarely,1495,Research & Development,4,2,Medical,3,4,1,7,5,2,0,0,0,0
+RM1257,38,36-45,No,Travel_Frequently,594,Research & Development,2,2,Medical,3,2,1,9,4,2,6,1,0,5
+RM1262,38,36-45,No,Travel_Rarely,833,Research & Development,18,3,Medical,3,3,1,15,2,3,1,0,1,0
+RM1273,38,36-45,No,Travel_Rarely,1153,Research & Development,6,2,Other,3,2,1,5,3,3,5,4,0,4
+RM1290,38,36-45,No,Non-Travel,1336,Human Resources,2,3,Human Resources,3,4,3,13,3,3,11,10,3,8
+RM1309,38,36-45,No,Travel_Rarely,723,Sales,2,4,Marketing,4,1,2,20,4,2,4,2,0,3
+RM1374,38,36-45,No,Travel_Frequently,1394,Research & Development,8,3,Medical,3,3,1,20,3,3,20,11,0,7
+RM1377,38,36-45,No,Travel_Rarely,1206,Research & Development,9,2,Life Sciences,3,4,2,10,0,4,5,2,0,3
+RM1392,38,36-45,No,Travel_Rarely,1404,Sales,1,3,Life Sciences,3,1,0,20,3,2,1,0,0,0
+RM1401,38,36-45,No,Travel_Frequently,1444,Human Resources,1,4,Other,3,2,1,7,2,3,6,2,1,2
+RM1417,38,36-45,No,Travel_Rarely,1321,Sales,1,4,Life Sciences,3,1,2,16,3,3,15,13,5,8
+RM1419,38,36-45,No,Travel_Frequently,508,Research & Development,6,4,Life Sciences,3,4,1,10,1,3,8,3,7,7
+RM1431,38,36-45,No,Travel_Rarely,201,Research & Development,10,3,Medical,3,1,1,20,3,3,18,16,1,11
+RM1452,38,36-45,No,TravelRarely,345,Sales,10,2,Life Sciences,3,3,1,10,1,3,10,7,1,9
+RM034,39,36-45,Yes,Travel_Rarely,895,Sales,5,3,Technical Degree,3,3,1,19,6,4,1,0,0,0
+RM138,39,36-45,No,Travel_Rarely,1329,Sales,4,4,Life Sciences,3,3,1,17,1,4,15,11,5,9
+RM241,39,36-45,No,Travel_Rarely,1431,Research & Development,1,4,Medical,3,3,3,7,1,3,3,2,1,2
+RM252,39,36-45,No,Travel_Frequently,505,Research & Development,2,4,Technical Degree,4,4,0,20,1,3,19,6,11,null
+RM305,39,36-45,No,Travel_Rarely,1132,Research & Development,1,3,Medical,3,1,3,19,5,2,18,10,3,7
+RM315,39,36-45,No,Travel_Rarely,117,Research & Development,10,1,Medical,3,4,0,21,3,3,21,9,11,10
+RM327,39,36-45,No,Travel_Frequently,672,Research & Development,7,2,Medical,3,1,1,21,2,3,21,9,13,3
+RM328,39,36-45,Yes,Travel_Rarely,1162,Sales,3,2,Medical,3,1,0,12,3,2,1,0,0,0
+RM401,39,36-45,No,Travel_Frequently,1218,Research & Development,1,1,Life Sciences,3,3,1,21,3,3,21,8,1,6
+RM450,39,36-45,No,Travel_Frequently,443,Research & Development,8,1,Life Sciences,3,1,1,8,3,3,8,3,0,7
+RM527,39,36-45,No,Travel_Rarely,408,Research & Development,2,4,Technical Degree,3,1,0,20,4,3,20,7,11,10
+RM552,39,36-45,No,Travel_Rarely,141,Human Resources,3,3,Human Resources,3,3,1,12,3,1,8,3,3,6
+RM655,39,36-45,No,Travel_Rarely,1383,Human Resources,2,3,Life Sciences,3,3,2,13,2,3,5,4,0,4
+RM670,39,36-45,Yes,Travel_Rarely,1122,Research & Development,6,3,Medical,4,4,0,8,2,1,2,2,2,2
+RM706,39,36-45,No,Travel_Rarely,903,Sales,2,5,Life Sciences,3,4,0,9,3,3,8,7,0,7
+RM739,39,36-45,No,Travel_Rarely,466,Research & Development,1,1,Life Sciences,3,3,1,21,3,3,21,6,11,8
+RM754,39,36-45,No,Travel_Frequently,945,Research & Development,22,3,Medical,3,3,0,21,2,3,21,6,2,8
+RM814,39,36-45,Yes,Travel_Frequently,203,Research & Development,2,3,Life Sciences,3,4,3,21,4,3,18,7,11,5
+RM817,39,36-45,No,Non-Travel,439,Research & Development,9,3,Life Sciences,3,3,0,9,2,2,5,4,0,3
+RM938,39,36-45,No,Travel_Rarely,412,Research & Development,13,4,Medical,3,4,2,21,4,3,19,9,15,2
+RM941,39,36-45,Yes,Travel_Rarely,360,Research & Development,23,3,Medical,3,1,0,6,2,3,5,2,0,3
+RM950,39,36-45,No,Travel_Rarely,524,Research & Development,18,2,Life Sciences,3,1,0,9,6,3,8,7,1,7
+RM987,39,36-45,No,Travel_Rarely,1498,Sales,21,4,Life Sciences,3,4,2,8,2,4,5,4,1,4
+RM993,39,36-45,No,Non-Travel,1485,Research & Development,25,2,Life Sciences,4,2,1,13,2,3,6,4,0,5
+RM1033,39,36-45,Yes,Non-Travel,592,Research & Development,2,3,Life Sciences,4,2,0,11,2,4,1,0,0,0
+RM1080,39,36-45,No,Travel_Rarely,1089,Research & Development,6,3,Life Sciences,3,4,0,9,3,3,2,0,2,2
+RM1125,39,36-45,No,Travel_Rarely,1462,Sales,6,3,Medical,3,1,1,11,3,3,7,6,7,6
+RM1149,39,36-45,No,Travel_Rarely,1387,Research & Development,10,5,Medical,3,4,3,10,3,3,7,7,7,7
+RM1156,39,36-45,No,Travel_Rarely,170,Research & Development,3,2,Medical,3,4,1,11,3,3,10,8,0,7
+RM1160,39,36-45,No,Travel_Frequently,711,Research & Development,4,3,Medical,3,4,0,10,2,1,9,2,3,8
+RM1176,39,36-45,No,Travel_Rarely,492,Research & Development,12,3,Medical,4,3,0,7,3,3,5,4,1,0
+RM1241,39,36-45,No,Non-Travel,792,Research & Development,1,3,Life Sciences,3,4,1,9,2,3,9,8,5,8
+RM1285,39,36-45,No,Travel_Rarely,1253,Research & Development,10,1,Medical,4,3,0,9,3,3,4,3,2,2
+RM1293,39,36-45,No,Travel_Frequently,766,Sales,20,3,Life Sciences,3,4,1,7,6,3,2,1,2,2
+RM1336,39,36-45,No,Travel_Rarely,835,Research & Development,19,4,Other,3,2,3,7,2,3,2,2,2,2
+RM1367,39,36-45,No,Non-Travel,1251,Sales,21,4,Life Sciences,3,3,1,10,1,3,3,2,1,2
+RM1373,39,36-45,No,Travel_Rarely,867,Research & Development,9,2,Medical,4,4,1,10,3,3,10,0,7,9
+RM1404,39,36-45,No,Travel_Rarely,119,Sales,15,4,Marketing,3,1,0,21,3,3,20,8,11,10
+RM1430,39,36-45,No,Travel_Rarely,116,Research & Development,24,1,Life Sciences,3,1,0,18,2,3,7,7,1,7
+RM1438,39,36-45,No,Non-Travel,105,Research & Development,9,3,Life Sciences,3,3,0,21,3,2,6,0,1,3
+RM1463,39,36-45,No,Travel_Rarely,722,Sales,24,1,Marketing,3,1,1,21,2,2,20,9,9,6
+RM1467,39,36-45,No,Travel_Rarely,613,Research & Development,6,1,Medical,3,1,1,9,5,3,7,7,1,7
+RM1463,39,36-45,No,Travel_Rarely,722,Sales,24,1,Marketing,3,1,1,21,2,2,20,9,9,6
+RM1467,39,36-45,No,Travel_Rarely,613,Research & Development,6,1,Medical,3,1,1,9,5,3,7,7,1,1
+RM091,40,36-45,No,Travel_Frequently,530,Research & Development,1,4,Life Sciences,4,4,1,22,3,2,22,3,11,11
+RM151,40,36-45,No,Travel_Frequently,1395,Research & Development,26,3,Medical,3,1,1,20,2,3,20,7,2,13
+RM159,40,36-45,No,Travel_Rarely,630,Sales,4,4,Marketing,3,1,1,15,2,2,12,11,2,11
+RM187,40,36-45,No,Travel_Rarely,989,Research & Development,4,1,Medical,3,2,1,21,2,3,20,8,9,9
+RM204,40,36-45,No,Travel_Rarely,905,Research & Development,19,2,Medical,3,3,1,15,2,4,7,2,3,7
+RM209,40,36-45,No,Non-Travel,1151,Research & Development,9,5,Life Sciences,3,4,1,5,5,1,3,2,0,null
+RM244,40,36-45,No,Travel_Rarely,1300,Research & Development,24,2,Technical Degree,3,1,2,9,3,3,9,8,4,7
+RM258,40,36-45,No,Travel_Rarely,1416,Research & Development,2,2,Medical,3,4,1,22,5,3,21,7,3,null
+RM336,40,36-45,No,Travel_Rarely,1124,Sales,1,2,Medical,4,3,3,6,2,2,4,3,0,2
+RM362,40,36-45,No,Travel_Rarely,1171,Research & Development,10,4,Life Sciences,3,3,1,10,3,3,7,7,1,null
+RM369,40,36-45,Yes,Travel_Rarely,575,Sales,22,2,Marketing,3,1,2,8,6,3,6,4,1,0
+RM388,40,36-45,No,Travel_Rarely,759,Sales,2,2,Marketing,3,3,2,8,5,3,5,4,1,3
+RM392,40,36-45,No,Travel_Rarely,555,Research & Development,2,3,Medical,4,2,1,20,3,3,1,0,0,0
+RM418,40,36-45,No,Travel_Rarely,1398,Sales,2,4,Life Sciences,3,4,0,21,2,3,20,15,1,12
+RM449,40,36-45,No,Travel_Rarely,302,Research & Development,6,3,Life Sciences,3,3,0,22,3,3,20,6,5,13
+RM459,40,36-45,No,Non-Travel,1094,Sales,28,3,Other,3,3,1,20,2,3,1,0,0,1
+RM534,40,36-45,No,Travel_Frequently,580,Sales,5,4,Life Sciences,4,3,1,20,2,3,18,13,1,12
+RM554,40,36-45,No,Travel_Rarely,804,Research & Development,2,1,Medical,4,4,0,5,2,2,4,2,2,3
+RM583,40,36-45,No,Travel_Frequently,791,Research & Development,2,2,Medical,4,4,1,8,2,3,8,7,3,7
+RM602,40,36-45,No,Travel_Frequently,720,Research & Development,16,4,Medical,3,4,0,10,6,3,1,0,0,0
+RM685,40,36-45,No,Travel_Rarely,658,Sales,10,4,Marketing,3,2,1,11,2,2,1,0,0,0
+RM692,40,36-45,No,Travel_Frequently,1469,Research & Development,9,4,Medical,3,4,1,3,2,3,1,1,0,0
+RM707,40,36-45,Yes,Non-Travel,1479,Sales,24,3,Life Sciences,3,4,0,22,2,2,1,0,0,0
+RM769,40,36-45,No,Travel_Rarely,300,Sales,26,3,Marketing,3,2,1,8,3,2,7,7,7,5
+RM786,40,36-45,No,Travel_Rarely,1492,Research & Development,20,4,Technical Degree,4,4,1,14,6,3,11,10,11,1
+RM815,40,36-45,No,Travel_Rarely,1308,Research & Development,14,3,Medical,3,1,0,21,2,4,20,7,4,9
+RM838,40,36-45,No,Travel_Frequently,593,Research & Development,9,4,Medical,3,3,0,20,3,2,18,7,2,13
+RM846,40,36-45,No,Travel_Frequently,902,Research & Development,26,2,Medical,3,4,1,16,3,1,1,1,0,0
+RM867,40,36-45,No,Travel_Frequently,1184,Sales,2,4,Medical,3,4,3,5,2,3,0,0,0,0
+RM885,40,36-45,No,Travel_Rarely,107,Sales,10,3,Technical Degree,3,2,1,7,2,4,5,1,1,3
+RM947,40,36-45,Yes,Travel_Rarely,299,Sales,25,4,Marketing,3,3,0,9,2,3,5,4,1,0
+RM958,40,36-45,No,Non-Travel,458,Research & Development,16,2,Life Sciences,3,2,1,6,0,3,4,2,0,0
+RM960,40,36-45,No,Travel_Rarely,523,Research & Development,2,3,Life Sciences,3,3,0,9,4,3,9,8,8,8
+RM968,40,36-45,No,Travel_Rarely,329,Research & Development,1,4,Life Sciences,4,3,1,7,3,3,4,2,0,3
+RM979,40,36-45,No,Travel_Rarely,1202,Research & Development,2,1,Medical,4,2,3,15,0,3,12,11,11,8
+RM1030,40,36-45,No,Non-Travel,663,Research & Development,9,4,Other,3,3,2,11,2,4,8,7,0,7
+RM1041,40,36-45,No,Non-Travel,218,Research & Development,8,1,Medical,3,3,1,16,5,3,9,8,4,8
+RM1046,40,36-45,No,Travel_Rarely,896,Research & Development,2,3,Medical,3,3,1,8,3,4,3,1,1,2
+RM1084,40,36-45,Yes,Travel_Rarely,676,Research & Development,9,4,Life Sciences,3,2,0,15,3,1,5,4,1,0
+RM1095,40,36-45,No,Travel_Rarely,1342,Sales,9,2,Medical,3,4,0,9,5,4,8,4,7,1
+RM1097,40,36-45,No,Travel_Rarely,898,Human Resources,6,2,Medical,4,4,0,21,2,3,21,7,7,7
+RM1099,40,36-45,No,Non-Travel,1142,Research & Development,8,2,Life Sciences,3,3,0,8,2,3,2,2,2,2
+RM1133,40,36-45,No,Travel_Rarely,118,Sales,14,2,Life Sciences,3,3,1,5,2,3,5,4,1,2
+RM1157,40,36-45,No,Travel_Rarely,884,Research & Development,15,3,Life Sciences,3,4,2,18,2,3,18,15,14,12
